@@ -1,0 +1,3004 @@
+correct
+pattern: alter POVE
+cont=1, acum=1, c=1
+0 alter POVE 4.40451
+pattern: n. for Hou
+cont=20, acum=20, c=21
+1 n. for Hou 8.23709
+pattern:  of Resour
+cont=14, acum=14, c=35
+2  of Resour 12.0905
+pattern: ortation &
+cont=29, acum=29, c=64
+3 ortation & 15.9757
+pattern: O Antonio 
+cont=9, acum=9, c=73
+4 O Antonio  19.6602
+pattern: a (continu
+cont=141, acum=141, c=214
+5 a (continu 23.3195
+pattern: N TEL C IN
+cont=1, acum=1, c=215
+6 N TEL C IN 27.1298
+pattern:  R E I G N
+cont=1, acum=1, c=216
+7  R E I G N 30.967
+pattern: France (co
+cont=3, acum=3, c=219
+8 France (co 34.8615
+pattern: ..........
+cont=14893, acum=14893, c=15112
+9 .......... 38.7513
+pattern: ook Island
+cont=5, acum=5, c=15117
+10 ook Island 42.5798
+pattern: ..........
+cont=14893, acum=14893, c=30010
+11 .......... 46.4037
+pattern: ..........
+cont=14893, acum=14893, c=44903
+12 .......... 50.2558
+pattern: enek TUMA 
+cont=2, acum=2, c=44905
+13 enek TUMA  54.1327
+pattern:  (continue
+cont=390, acum=390, c=45295
+14  (continue 57.9671
+pattern: n Min. of 
+cont=614, acum=614, c=45909
+15 n Min. of  61.8113
+pattern: ... Perman
+cont=62, acum=62, c=45971
+16 ... Perman 66.016
+pattern: UHIRIRA, D
+cont=1, acum=1, c=45972
+17 UHIRIRA, D 69.8378
+pattern: Developmen
+cont=400, acum=400, c=46372
+18 Developmen 73.6822
+pattern: continued)
+cont=81, acum=81, c=46453
+19 continued) 77.5057
+pattern: ahamas, Th
+cont=5, acum=5, c=46458
+20 ahamas, Th 81.327
+pattern: de, Indust
+cont=16, acum=16, c=46474
+21 de, Indust 85.1245
+pattern: ..........
+cont=14893, acum=14893, c=61367
+22 .......... 88.9896
+pattern: abor .....
+cont=31, acum=31, c=61398
+23 abor ..... 92.9138
+pattern: Cook Islan
+cont=8, acum=8, c=61406
+24 Cook Islan 96.7182
+pattern: AMID bin S
+cont=1, acum=1, c=61407
+25 AMID bin S 100.528
+pattern: an (contin
+cont=22, acum=22, c=61429
+26 an (contin 104.404
+pattern: ..........
+cont=14893, acum=14893, c=76322
+27 .......... 108.277
+pattern: ity, & Sci
+cont=1, acum=1, c=76323
+28 ity, & Sci 112.206
+pattern: New Zealan
+cont=16, acum=16, c=76339
+29 New Zealan 116.036
+pattern: ngapore (c
+cont=2, acum=2, c=76341
+30 ngapore (c 119.896
+pattern: ..........
+cont=14893, acum=14893, c=91234
+31 .......... 123.929
+pattern: tion .....
+cont=222, acum=222, c=91456
+32 tion ..... 127.599
+pattern: Ali Akbar 
+cont=4, acum=4, c=91460
+33 Ali Akbar  131.334
+pattern: mark (cont
+cont=2, acum=2, c=91462
+34 mark (cont 135.075
+pattern: ..........
+cont=14893, acum=14893, c=106355
+35 .......... 138.885
+pattern: ..........
+cont=14893, acum=14893, c=121248
+36 .......... 142.661
+pattern: ..........
+cont=14893, acum=14893, c=136141
+37 .......... 146.424
+pattern: obadze, Ni
+cont=2, acum=2, c=136143
+38 obadze, Ni 150.188
+pattern: eb, Godfre
+cont=2, acum=2, c=136145
+39 eb, Godfre 153.971
+pattern: dent .....
+cont=177, acum=177, c=136322
+40 dent ..... 157.706
+pattern: D I R E C 
+cont=1, acum=1, c=136323
+41 D I R E C  161.464
+pattern: 2005-09 Oc
+cont=1, acum=1, c=136324
+42 2005-09 Oc 165.281
+pattern: sentative 
+cont=7, acum=7, c=136331
+43 sentative  169.057
+pattern: shi WEVER 
+cont=1, acum=1, c=136332
+44 shi WEVER  172.855
+pattern: ........ M
+cont=4838, acum=4838, c=141170
+45 ........ M 176.641
+pattern: ..........
+cont=14893, acum=14893, c=156063
+46 .......... 180.397
+pattern: Azerbaijan
+cont=5, acum=5, c=156068
+47 Azerbaijan 184.171
+pattern: ..........
+cont=14893, acum=14893, c=170961
+48 .......... 187.979
+pattern: akula, Cha
+cont=2, acum=2, c=170963
+49 akula, Cha 191.721
+pattern: Pres., Tre
+cont=7, acum=7, c=170970
+50 Pres., Tre 195.57
+pattern: ..........
+cont=14893, acum=14893, c=185863
+51 .......... 199.382
+pattern: or Min. of
+cont=87, acum=87, c=185950
+52 or Min. of 203.19
+pattern: UDFINNSSON
+cont=3, acum=3, c=185953
+53 UDFINNSSON 206.873
+pattern: atic Repub
+cont=1, acum=1, c=185954
+54 atic Repub 210.574
+pattern: tary Affai
+cont=8, acum=8, c=185962
+55 tary Affai 214.175
+pattern: on, Youth,
+cont=22, acum=22, c=185984
+56 on, Youth, 217.873
+pattern: Jean, Igna
+cont=3, acum=3, c=185987
+57 Jean, Igna 221.633
+pattern: ..........
+cont=14893, acum=14893, c=200880
+58 .......... 225.209
+pattern: ew Zealand
+cont=11, acum=11, c=200891
+59 ew Zealand 228.878
+pattern: zech Repub
+cont=5, acum=5, c=200896
+60 zech Repub 232.683
+pattern: arge d'Aff
+cont=9, acum=9, c=200905
+61 arge d'Aff 236.492
+pattern: hiefs ofSt
+cont=1, acum=1, c=200906
+62 hiefs ofSt 240.564
+pattern: alewezi, J
+cont=6, acum=6, c=200912
+63 alewezi, J 244.337
+pattern: guyen Than
+cont=3, acum=3, c=200915
+64 guyen Than 248.142
+pattern: f Finance 
+cont=371, acum=371, c=201286
+65 f Finance  251.938
+pattern: ..........
+cont=14893, acum=14893, c=216179
+66 .......... 255.715
+pattern: resentativ
+cont=9, acum=9, c=216188
+67 resentativ 259.479
+pattern: in. of Dev
+cont=54, acum=54, c=216242
+68 in. of Dev 263.254
+pattern: angur Hash
+cont=1, acum=1, c=216243
+69 angur Hash 267.067
+pattern: urity ....
+cont=15, acum=15, c=216258
+70 urity .... 270.848
+pattern: ..........
+cont=14893, acum=14893, c=231151
+71 .......... 274.665
+pattern: ambia, The
+cont=6, acum=6, c=231157
+72 ambia, The 278.441
+pattern: continued)
+cont=81, acum=81, c=231238
+73 continued) 282.189
+pattern: C Radomir 
+cont=2, acum=2, c=231240
+74 C Radomir  285.953
+pattern: N TEL C IN
+cont=1, acum=1, c=231241
+75 N TEL C IN 289.7
+pattern: o JOVIC Ad
+cont=1, acum=1, c=231242
+76 o JOVIC Ad 293.392
+pattern:  bin Said 
+cont=12, acum=12, c=231254
+77  bin Said  297.106
+pattern: iwanâ
+cont=0, acum=0, c=231254
+78 iwanâ 300.905
+pattern: ork ......
+cont=12, acum=12, c=231266
+79 ork ...... 304.667
+pattern: u-Latha, P
+cont=2, acum=2, c=231268
+80 u-Latha, P 308.455
+pattern: es Min. of
+cont=283, acum=283, c=231551
+81 es Min. of 312.193
+pattern: SOKOLOV Da
+cont=1, acum=1, c=231552
+82 SOKOLOV Da 315.98
+pattern: (continued
+cont=95, acum=95, c=231647
+83 (continued 319.748
+pattern: ..........
+cont=14893, acum=14893, c=246540
+84 .......... 323.521
+pattern: HAARDER In
+cont=1, acum=1, c=246541
+85 HAARDER In 327.334
+pattern: Fertilizer
+cont=1, acum=1, c=246542
+86 Fertilizer 331.117
+pattern: s ........
+cont=496, acum=496, c=247038
+87 s ........ 334.875
+pattern: ent, Famil
+cont=3, acum=3, c=247041
+88 ent, Famil 338.6
+pattern: ..........
+cont=14893, acum=14893, c=261934
+89 .......... 342.358
+pattern: Phommachan
+cont=4, acum=4, c=261938
+90 Phommachan 346.131
+pattern:  (continue
+cont=390, acum=390, c=262328
+91  (continue 349.926
+pattern: ercedes DI
+cont=10, acum=10, c=262338
+92 ercedes DI 353.712
+pattern:  & Communi
+cont=120, acum=120, c=262458
+93  & Communi 357.511
+pattern: r European
+cont=23, acum=23, c=262481
+94 r European 361.318
+pattern: ..........
+cont=14893, acum=14893, c=277374
+95 .......... 365.108
+pattern: emier, Sta
+cont=3, acum=3, c=277377
+96 emier, Sta 368.919
+pattern: Paulette A
+cont=6, acum=6, c=277383
+97 Paulette A 372.739
+pattern: Kenya (con
+cont=3, acum=3, c=277386
+98 Kenya (con 376.533
+pattern: CH Cynthia
+cont=1, acum=1, c=277387
+99 CH Cynthia 380.301
+pattern: and Tobago
+cont=6, acum=6, c=277393
+100 and Tobago 384.071
+pattern: Tieba Somd
+cont=1, acum=1, c=277394
+101 Tieba Somd 387.938
+pattern: Sao Tome a
+cont=11, acum=11, c=277405
+102 Sao Tome a 391.75
+pattern: cipe (cont
+cont=1, acum=1, c=277406
+103 cipe (cont 395.529
+pattern: urai, Jim 
+cont=8, acum=8, c=277414
+104 urai, Jim  399.266
+pattern: Cubaâ
+cont=0, acum=0, c=277414
+105 Cubaâ 402.98
+pattern: e (continu
+cont=32, acum=32, c=277446
+106 e (continu 406.65
+pattern: enadi Samb
+cont=1, acum=1, c=277447
+107 enadi Samb 410.428
+pattern: yria (cont
+cont=3, acum=3, c=277450
+108 yria (cont 414.232
+pattern: an Integra
+cont=8, acum=8, c=277458
+109 an Integra 418.004
+pattern: tate Min. 
+cont=114, acum=114, c=277572
+110 tate Min.  421.797
+pattern: ..........
+cont=14893, acum=14893, c=292465
+111 .......... 425.519
+pattern: el M. Y. L
+cont=1, acum=1, c=292466
+112 el M. Y. L 429.294
+pattern: abinetMemb
+cont=7, acum=7, c=292473
+113 abinetMemb 433.074
+pattern:  of Albani
+cont=2, acum=2, c=292475
+114  of Albani 436.822
+pattern: NDE (conti
+cont=5, acum=5, c=292480
+115 NDE (conti 440.593
+pattern: President 
+cont=746, acum=746, c=293226
+116 President  444.379
+pattern: ..........
+cont=14893, acum=14893, c=308119
+117 .......... 448.199
+pattern: tral Bank 
+cont=91, acum=91, c=308210
+118 tral Bank  451.967
+pattern: ..........
+cont=14893, acum=14893, c=323103
+119 .......... 456.022
+pattern: ..........
+cont=14893, acum=14893, c=337996
+120 .......... 459.665
+pattern: ..........
+cont=14893, acum=14893, c=352889
+121 .......... 463.61
+pattern: ose Albert
+cont=3, acum=3, c=352892
+122 ose Albert 467.369
+pattern: iefs ofSta
+cont=1, acum=1, c=352893
+123 iefs ofSta 471.186
+pattern: m Keil Tui
+cont=1, acum=1, c=352894
+124 m Keil Tui 474.98
+pattern: Miroljub L
+cont=2, acum=2, c=352896
+125 Miroljub L 478.853
+pattern: a (continu
+cont=141, acum=141, c=353037
+126 a (continu 482.566
+pattern: fghanistan
+cont=3, acum=3, c=353040
+127 fghanistan 486.339
+pattern: ec. of Ene
+cont=4, acum=4, c=353044
+128 ec. of Ene 490.108
+pattern: ..........
+cont=14893, acum=14893, c=367937
+129 .......... 493.93
+pattern: nt .......
+cont=325, acum=325, c=368262
+130 nt ....... 497.799
+pattern: Iranâ
+cont=0, acum=0, c=368262
+131 Iranâ 501.565
+pattern: Francisco 
+cont=127, acum=127, c=368389
+132 Francisco  505.321
+pattern: Abdallah a
+cont=69, acum=69, c=368458
+133 Abdallah a 509.056
+pattern: nd Barbuda
+cont=3, acum=3, c=368461
+134 nd Barbuda 512.805
+pattern: ..........
+cont=14893, acum=14893, c=383354
+135 .......... 516.588
+pattern:  & Informa
+cont=61, acum=61, c=383415
+136  & Informa 520.603
+pattern:  Forestry 
+cont=100, acum=100, c=383515
+137  Forestry  524.325
+pattern: ..........
+cont=14893, acum=14893, c=398408
+138 .......... 528.08
+pattern: rhofstadt,
+cont=2, acum=2, c=398410
+139 rhofstadt, 531.864
+pattern: omp, Emsle
+cont=4, acum=4, c=398414
+140 omp, Emsle 535.52
+pattern:  Victor CO
+cont=5, acum=5, c=398419
+141  Victor CO 539.23
+pattern:  BETHEL Hu
+cont=1, acum=1, c=398420
+142  BETHEL Hu 542.979
+pattern: Mauritania
+cont=13, acum=13, c=398433
+143 Mauritania 546.75
+pattern: continued)
+cont=81, acum=81, c=398514
+144 continued) 550.519
+pattern: lic of the
+cont=6, acum=6, c=398520
+145 lic of the 554.296
+pattern: ..........
+cont=14893, acum=14893, c=413413
+146 .......... 558.128
+pattern: Ghana (con
+cont=3, acum=3, c=413416
+147 Ghana (con 561.939
+pattern: Min. of Mu
+cont=31, acum=31, c=413447
+148 Min. of Mu 565.715
+pattern: nder McDon
+cont=2, acum=2, c=413449
+149 nder McDon 569.523
+pattern: ..........
+cont=14893, acum=14893, c=428342
+150 .......... 573.319
+pattern: ..........
+cont=14893, acum=14893, c=443235
+151 .......... 577.055
+pattern: ahim Jazin
+cont=1, acum=1, c=443236
+152 ahim Jazin 580.829
+pattern: sljugic, M
+cont=2, acum=2, c=443238
+153 sljugic, M 584.637
+pattern: ..........
+cont=14893, acum=14893, c=458131
+154 .......... 588.444
+pattern: Security S
+cont=19, acum=19, c=458150
+155 Security S 592.22
+pattern: bwe (conti
+cont=2, acum=2, c=458152
+156 bwe (conti 596.016
+pattern:  African R
+cont=1, acum=1, c=458153
+157  African R 599.64
+pattern: O F F O R 
+cont=1, acum=1, c=458154
+158 O F F O R  603.341
+pattern:  Dirir SIR
+cont=1, acum=1, c=458155
+159  Dirir SIR 607.104
+pattern: fairs ....
+cont=118, acum=118, c=458273
+160 fairs .... 610.889
+pattern: for Foreig
+cont=80, acum=80, c=458353
+161 for Foreig 614.68
+pattern: ..........
+cont=14893, acum=14893, c=473246
+162 .......... 618.465
+pattern: ..........
+cont=14893, acum=14893, c=488139
+163 .......... 622.257
+pattern: ..........
+cont=14893, acum=14893, c=503032
+164 .......... 626.023
+pattern: ..........
+cont=14893, acum=14893, c=517925
+165 .......... 629.794
+pattern: , Mihai Gr
+cont=1, acum=1, c=517926
+166 , Mihai Gr 633.466
+pattern: ......... 
+cont=11885, acum=11885, c=529811
+167 .........  637.208
+pattern: ..........
+cont=14893, acum=14893, c=544704
+168 .......... 640.982
+pattern: ..........
+cont=14893, acum=14893, c=559597
+169 .......... 644.78
+pattern:  Islands (
+cont=6, acum=6, c=559603
+170  Islands ( 648.533
+pattern: ..........
+cont=14893, acum=14893, c=574496
+171 .......... 652.312
+pattern: continued)
+cont=81, acum=81, c=574577
+172 continued) 655.924
+pattern: ..........
+cont=14893, acum=14893, c=589470
+173 .......... 659.716
+pattern: ..........
+cont=14893, acum=14893, c=604363
+174 .......... 663.486
+pattern: ..........
+cont=14893, acum=14893, c=619256
+175 .......... 667.242
+pattern: ..........
+cont=14893, acum=14893, c=634149
+176 .......... 671.077
+pattern: ..........
+cont=14893, acum=14893, c=649042
+177 .......... 674.89
+pattern: public of 
+cont=9, acum=9, c=649051
+178 public of  678.65
+pattern: Mauritania
+cont=13, acum=13, c=649064
+179 Mauritania 682.401
+pattern: Sao Tome a
+cont=11, acum=11, c=649075
+180 Sao Tome a 686.152
+pattern: Bangladesh
+cont=14, acum=14, c=649089
+181 Bangladesh 689.879
+pattern: e dâI
+cont=0, acum=0, c=649089
+182 e dâI 693.512
+pattern: n. Without
+cont=72, acum=72, c=649161
+183 n. Without 697.302
+pattern: New Zealan
+cont=16, acum=16, c=649177
+184 New Zealan 701.069
+pattern: ozambique 
+cont=5, acum=5, c=649182
+185 ozambique  704.926
+pattern: l Husbandr
+cont=5, acum=5, c=649187
+186 l Husbandr 708.531
+pattern: all Island
+cont=4, acum=4, c=649191
+187 all Island 712.399
+pattern: eci, Spiro
+cont=2, acum=2, c=649193
+188 eci, Spiro 716.162
+pattern:  MILLER Al
+cont=1, acum=1, c=649194
+189  MILLER Al 719.909
+pattern: IRBI Salih
+cont=3, acum=3, c=649197
+190 IRBI Salih 723.672
+pattern: ranâN
+cont=0, acum=0, c=649197
+191 ranâN 727.511
+pattern: TAD Liv Si
+cont=1, acum=1, c=649198
+192 TAD Liv Si 731.171
+pattern: Shalgam, A
+cont=5, acum=5, c=649203
+193 Shalgam, A 734.932
+pattern: ..........
+cont=14893, acum=14893, c=664096
+194 .......... 739.234
+pattern:  of Women 
+cont=44, acum=44, c=664140
+195  of Women  743.136
+pattern: udji Diar,
+cont=1, acum=1, c=664141
+196 udji Diar, 746.894
+pattern: dier Capta
+cont=1, acum=1, c=664142
+197 dier Capta 750.683
+pattern: g ........
+cont=60, acum=60, c=664202
+198 g ........ 754.445
+pattern: . for Work
+cont=22, acum=22, c=664224
+199 . for Work 758.251
+pattern: of Agricul
+cont=187, acum=187, c=664411
+200 of Agricul 762.032
+pattern:  (continue
+cont=390, acum=390, c=664801
+201  (continue 765.835
+pattern: (continued
+cont=95, acum=95, c=664896
+202 (continued 769.638
+pattern: urkina Fas
+cont=4, acum=4, c=664900
+203 urkina Fas 773.41
+pattern: ..........
+cont=14893, acum=14893, c=679793
+204 .......... 777.198
+pattern: c. of Stat
+cont=87, acum=87, c=679880
+205 c. of Stat 780.984
+pattern: AY (CPP) C
+cont=1, acum=1, c=679881
+206 AY (CPP) C 784.733
+pattern: ua, Isikia
+cont=3, acum=3, c=679884
+207 ua, Isikia 788.413
+pattern: stan (cont
+cont=11, acum=11, c=679895
+208 stan (cont 792.206
+pattern: ..........
+cont=14893, acum=14893, c=694788
+209 .......... 795.989
+pattern: ..........
+cont=14893, acum=14893, c=709681
+210 .......... 799.787
+pattern: Syria (con
+cont=5, acum=5, c=709686
+211 Syria (con 803.481
+pattern: ..........
+cont=14893, acum=14893, c=724579
+212 .......... 807.222
+pattern: w York ...
+cont=8, acum=8, c=724587
+213 w York ... 810.964
+pattern:  Min. of E
+cont=1295, acum=1295, c=725882
+214  Min. of E 814.772
+pattern: . UNG KUNT
+cont=1, acum=1, c=725883
+215 . UNG KUNT 818.518
+pattern: ..........
+cont=14893, acum=14893, c=740776
+216 .......... 822.273
+pattern: ing ......
+cont=82, acum=82, c=740858
+217 ing ...... 826.073
+pattern: in. of Loc
+cont=78, acum=78, c=740936
+218 in. of Loc 829.804
+pattern: os (contin
+cont=5, acum=5, c=740941
+219 os (contin 833.836
+pattern: ldova (con
+cont=4, acum=4, c=740945
+220 ldova (con 837.624
+pattern:  of Local 
+cont=90, acum=90, c=741035
+221  of Local  841.38
+pattern: Abdallah A
+cont=39, acum=39, c=741074
+222 Abdallah A 845.056
+pattern: ..........
+cont=14893, acum=14893, c=755967
+223 .......... 848.795
+pattern:  Human Res
+cont=42, acum=42, c=756009
+224  Human Res 852.59
+pattern: in Isa al-
+cont=5, acum=5, c=756014
+225 in Isa al- 856.366
+pattern: blic Works
+cont=76, acum=76, c=756090
+226 blic Works 860.155
+pattern: ..........
+cont=14893, acum=14893, c=770983
+227 .......... 863.903
+pattern: an (contin
+cont=22, acum=22, c=771005
+228 an (contin 867.654
+pattern: manent Rep
+cont=6, acum=6, c=771011
+229 manent Rep 871.437
+pattern: MATABELE D
+cont=1, acum=1, c=771012
+230 MATABELE D 875.208
+pattern: HANT Izben
+cont=1, acum=1, c=771013
+231 HANT Izben 879.03
+pattern: d and Toba
+cont=2, acum=2, c=771015
+232 d and Toba 882.851
+pattern:  E C TO RY
+cont=1, acum=1, c=771016
+233  E C TO RY 886.65
+pattern: ..........
+cont=14893, acum=14893, c=785909
+234 .......... 890.45
+pattern: ..........
+cont=14893, acum=14893, c=800802
+235 .......... 894.19
+pattern: ..........
+cont=14893, acum=14893, c=815695
+236 .......... 897.981
+pattern:  F F O R E
+cont=1, acum=1, c=815696
+237  F F O R E 901.76
+pattern: ..........
+cont=14893, acum=14893, c=830589
+238 .......... 905.501
+pattern: ty Min. of
+cont=106, acum=106, c=830695
+239 ty Min. of 909.253
+pattern:  Abdiweli 
+cont=2, acum=2, c=830697
+240  Abdiweli  913.114
+pattern: ..........
+cont=14893, acum=14893, c=845590
+241 .......... 916.852
+pattern: ..........
+cont=14893, acum=14893, c=860483
+242 .......... 920.637
+pattern: an BASESCU
+cont=1, acum=1, c=860484
+243 an BASESCU 924.4
+pattern: continued)
+cont=81, acum=81, c=860565
+244 continued) 928.152
+pattern: urg (conti
+cont=2, acum=2, c=860567
+245 urg (conti 931.896
+pattern: ongo, Repu
+cont=3, acum=3, c=860570
+246 ongo, Repu 935.651
+pattern: l-Khalifa 
+cont=27, acum=27, c=860597
+247 l-Khalifa  939.445
+pattern:  to the US
+cont=38, acum=38, c=860635
+248  to the US 943.159
+pattern: ..........
+cont=14893, acum=14893, c=875528
+249 .......... 946.967
+pattern: id Muhamma
+cont=16, acum=16, c=875544
+250 id Muhamma 950.733
+pattern: ..........
+cont=14893, acum=14893, c=890437
+251 .......... 954.494
+pattern: A L CENTRA
+cont=1, acum=1, c=890438
+252 A L CENTRA 958.242
+pattern: irs Sec. o
+cont=22, acum=22, c=890460
+253 irs Sec. o 961.988
+pattern:  I R E C T
+cont=1, acum=1, c=890461
+254  I R E C T 965.785
+pattern: ..... Mira
+cont=1, acum=1, c=890462
+255 ..... Mira 969.604
+pattern: ..........
+cont=14893, acum=14893, c=905355
+256 .......... 973.381
+pattern: ..........
+cont=14893, acum=14893, c=920248
+257 .......... 977.15
+pattern: Hussain MA
+cont=2, acum=2, c=920250
+258 Hussain MA 980.942
+pattern: ial Affair
+cont=69, acum=69, c=920319
+259 ial Affair 984.708
+pattern: n. of Fore
+cont=305, acum=305, c=920624
+260 n. of Fore 988.524
+pattern: okesman fo
+cont=2, acum=2, c=920626
+261 okesman fo 992.275
+pattern: Rabiu KWAN
+cont=3, acum=3, c=920629
+262 Rabiu KWAN 996.074
+pattern:  dâIv
+cont=0, acum=0, c=920629
+263  dâIv 1000.24
+pattern: n of this 
+cont=1, acum=1, c=920630
+264 n of this  1004.09
+pattern: epresentat
+cont=9, acum=9, c=920639
+265 epresentat 1007.89
+pattern:  and Tobag
+cont=2, acum=2, c=920641
+266  and Tobag 1011.89
+pattern: ..........
+cont=14893, acum=14893, c=935534
+267 .......... 1015.69
+pattern: elle Bazin
+cont=1, acum=1, c=935535
+268 elle Bazin 1019.33
+pattern: ang-kuk KI
+cont=2, acum=2, c=935537
+269 ang-kuk KI 1023.05
+pattern: ... Min. f
+cont=562, acum=562, c=936099
+270 ... Min. f 1026.87
+pattern: A D I R E 
+cont=1, acum=1, c=936100
+271 A D I R E  1030.67
+pattern: OS Prokopi
+cont=1, acum=1, c=936101
+272 OS Prokopi 1034.45
+pattern: ..........
+cont=14893, acum=14893, c=950994
+273 .......... 1038.22
+pattern: outh Afric
+cont=11, acum=11, c=951005
+274 outh Afric 1041.96
+pattern: Costa Rica
+cont=10, acum=10, c=951015
+275 Costa Rica 1045.72
+pattern: Housing, &
+cont=28, acum=28, c=951043
+276 Housing, & 1049.48
+pattern: ..... Umar
+cont=42, acum=42, c=951085
+277 ..... Umar 1053.27
+pattern: ire Pascal
+cont=2, acum=2, c=951087
+278 ire Pascal 1057.04
+pattern:  (continue
+cont=390, acum=390, c=951477
+279  (continue 1060.84
+pattern: ..........
+cont=14893, acum=14893, c=966370
+280 .......... 1064.6
+pattern: Gambia, Th
+cont=6, acum=6, c=966376
+281 Gambia, Th 1068.42
+pattern: lgeria (co
+cont=1, acum=1, c=966377
+282 lgeria (co 1072.17
+pattern: ..........
+cont=14893, acum=14893, c=981270
+283 .......... 1075.99
+pattern: ..........
+cont=14893, acum=14893, c=996163
+284 .......... 1079.76
+pattern: ..........
+cont=14893, acum=14893, c=1011056
+285 .......... 1083.49
+pattern: ..........
+cont=14893, acum=14893, c=1025949
+286 .......... 1087.26
+pattern: BU Kaire M
+cont=2, acum=2, c=1025951
+287 BU Kaire M 1091.03
+pattern: ..........
+cont=14893, acum=14893, c=1040844
+288 .......... 1094.84
+pattern: URSIK Jiri
+cont=1, acum=1, c=1040845
+289 URSIK Jiri 1098.56
+pattern:  Zia, Khal
+cont=4, acum=4, c=1040849
+290  Zia, Khal 1102.3
+pattern: ..........
+cont=14893, acum=14893, c=1055742
+291 .......... 1106.09
+pattern: SHATTI Fal
+cont=1, acum=1, c=1055743
+292 SHATTI Fal 1109.85
+pattern: 1] (703) 4
+cont=2, acum=2, c=1055745
+293 1] (703) 4 1113.62
+pattern: Cook Islan
+cont=8, acum=8, c=1055753
+294 Cook Islan 1117.4
+pattern: ulaye Sour
+cont=1, acum=1, c=1055754
+295 ulaye Sour 1121.19
+pattern: gypt (cont
+cont=3, acum=3, c=1055757
+296 gypt (cont 1124.97
+pattern:  (continue
+cont=390, acum=390, c=1056147
+297  (continue 1128.74
+pattern: dent Prime
+cont=144, acum=144, c=1056291
+298 dent Prime 1132.5
+pattern:  Sports Mi
+cont=57, acum=57, c=1056348
+299  Sports Mi 1136.25
+pattern: Gambia, Th
+cont=6, acum=6, c=1056354
+300 Gambia, Th 1140.05
+pattern:  Vincent S
+cont=1, acum=1, c=1056355
+301  Vincent S 1143.83
+pattern: ..........
+cont=14893, acum=14893, c=1071248
+302 .......... 1147.45
+pattern: er, Nation
+cont=2, acum=2, c=1071250
+303 er, Nation 1151.18
+pattern: entative t
+cont=4, acum=4, c=1071254
+304 entative t 1154.8
+pattern: choll, Pet
+cont=2, acum=2, c=1071256
+305 choll, Pet 1158.45
+pattern: ..........
+cont=14893, acum=14893, c=1086149
+306 .......... 1162.1
+pattern: ..........
+cont=14893, acum=14893, c=1101042
+307 .......... 1165.75
+pattern: rs Min. of
+cont=341, acum=341, c=1101383
+308 rs Min. of 1169.37
+pattern: rpska Nati
+cont=1, acum=1, c=1101384
+309 rpska Nati 1173.03
+pattern: ..........
+cont=14893, acum=14893, c=1116277
+310 .......... 1176.66
+pattern: continued)
+cont=81, acum=81, c=1116358
+311 continued) 1180.28
+pattern:  Represent
+cont=17, acum=17, c=1116375
+312  Represent 1183.88
+pattern: ..........
+cont=14893, acum=14893, c=1131268
+313 .......... 1187.64
+pattern: ntigua and
+cont=2, acum=2, c=1131270
+314 ntigua and 1191.45
+pattern: Kazakhstan
+cont=17, acum=17, c=1131287
+315 Kazakhstan 1195.25
+pattern: nt Chmn., 
+cont=17, acum=17, c=1131304
+316 nt Chmn.,  1199.03
+pattern: ..........
+cont=14893, acum=14893, c=1146197
+317 .......... 1202.79
+pattern: minican Re
+cont=2, acum=2, c=1146199
+318 minican Re 1206.53
+pattern: ..........
+cont=14893, acum=14893, c=1161092
+319 .......... 1210.29
+pattern: d JALEEL M
+cont=3, acum=3, c=1161095
+320 d JALEEL M 1214.08
+pattern: arity Min.
+cont=23, acum=23, c=1161118
+321 arity Min. 1217.84
+pattern: minica (co
+cont=1, acum=1, c=1161119
+322 minica (co 1221.66
+pattern: ..........
+cont=14893, acum=14893, c=1176012
+323 .......... 1225.46
+pattern: ze (contin
+cont=1, acum=1, c=1176013
+324 ze (contin 1229.18
+pattern: ..........
+cont=14893, acum=14893, c=1190906
+325 .......... 1232.93
+pattern: rillas, Na
+cont=2, acum=2, c=1190908
+326 rillas, Na 1236.68
+pattern: illiam Kaw
+cont=1, acum=1, c=1190909
+327 illiam Kaw 1240.43
+pattern: ..........
+cont=14893, acum=14893, c=1205802
+328 .......... 1244.19
+pattern: kit PRIDIY
+cont=1, acum=1, c=1205803
+329 kit PRIDIY 1247.96
+pattern: sheya DLAM
+cont=1, acum=1, c=1205804
+330 sheya DLAM 1251.78
+pattern:  .........
+cont=1987, acum=1987, c=1207791
+331  ......... 1255.55
+pattern:  VEGA Sanz
+cont=1, acum=1, c=1207792
+332  VEGA Sanz 1259.35
+pattern:  Sung-hun 
+cont=3, acum=3, c=1207795
+333  Sung-hun  1263.01
+pattern: ..........
+cont=14893, acum=14893, c=1222688
+334 .......... 1266.8
+pattern: or Communi
+cont=54, acum=54, c=1222742
+335 or Communi 1270.55
+pattern: ..........
+cont=14893, acum=14893, c=1237635
+336 .......... 1274.24
+pattern: ative to t
+cont=21, acum=21, c=1237656
+337 ative to t 1278.03
+pattern: ..........
+cont=14893, acum=14893, c=1252549
+338 .......... 1281.8
+pattern: ent Repres
+cont=1, acum=1, c=1252550
+339 ent Repres 1285.58
+pattern: ammad bin 
+cont=39, acum=39, c=1252589
+340 ammad bin  1289.34
+pattern: i (continu
+cont=17, acum=17, c=1252606
+341 i (continu 1293.09
+pattern: eal Pres.,
+cont=2, acum=2, c=1252608
+342 eal Pres., 1296.85
+pattern: ..........
+cont=14893, acum=14893, c=1267501
+343 .......... 1300.64
+pattern: n Min. of 
+cont=614, acum=614, c=1268115
+344 n Min. of  1304.45
+pattern: ssador to 
+cont=15, acum=15, c=1268130
+345 ssador to  1308.22
+pattern: ..........
+cont=14893, acum=14893, c=1283023
+346 .......... 1312
+pattern:  Developme
+cont=413, acum=413, c=1283436
+347  Developme 1315.68
+pattern: evelopment
+cont=217, acum=217, c=1283653
+348 evelopment 1319.48
+pattern: 'yo YUN Yo
+cont=1, acum=1, c=1283654
+349 'yo YUN Yo 1323.27
+pattern: South Afri
+cont=16, acum=16, c=1283670
+350 South Afri 1327.04
+pattern: Song-kwan 
+cont=2, acum=2, c=1283672
+351 Song-kwan  1330.84
+pattern: (continued
+cont=95, acum=95, c=1283767
+352 (continued 1334.57
+pattern: ..........
+cont=14893, acum=14893, c=1298660
+353 .......... 1338.35
+pattern: Foreign Af
+cont=267, acum=267, c=1298927
+354 Foreign Af 1342.1
+pattern: ong-ch'ol 
+cont=4, acum=4, c=1298931
+355 ong-ch'ol  1345.85
+pattern: try Min. o
+cont=72, acum=72, c=1299003
+356 try Min. o 1349.56
+pattern: a (continu
+cont=141, acum=141, c=1299144
+357 a (continu 1353.37
+pattern: ..........
+cont=14893, acum=14893, c=1314037
+358 .......... 1357.14
+pattern: Wiam WAHHA
+cont=1, acum=1, c=1314038
+359 Wiam WAHHA 1360.92
+pattern: ..........
+cont=14893, acum=14893, c=1328931
+360 .......... 1364.68
+pattern: nga (conti
+cont=4, acum=4, c=1328935
+361 nga (conti 1368.43
+pattern: hilippines
+cont=10, acum=10, c=1328945
+362 hilippines 1372.2
+pattern:  Xanana GU
+cont=1, acum=1, c=1328946
+363  Xanana GU 1375.98
+pattern: ..........
+cont=14893, acum=14893, c=1343839
+364 .......... 1379.73
+pattern: ..........
+cont=14893, acum=14893, c=1358732
+365 .......... 1383.5
+pattern: d Cisse, A
+cont=1, acum=1, c=1358733
+366 d Cisse, A 1387.23
+pattern: MEDOW Gurb
+cont=2, acum=2, c=1358735
+367 MEDOW Gurb 1390.99
+pattern:  Vartan Kh
+cont=1, acum=1, c=1358736
+368  Vartan Kh 1394.79
+pattern: ime Min. D
+cont=39, acum=39, c=1358775
+369 ime Min. D 1398.58
+pattern: all Island
+cont=4, acum=4, c=1358779
+370 all Island 1402.36
+pattern: s Weldenke
+cont=1, acum=1, c=1358780
+371 s Weldenke 1406.09
+pattern: n. of Wome
+cont=92, acum=92, c=1358872
+372 n. of Wome 1409.86
+pattern: Min. of Te
+cont=185, acum=185, c=1359057
+373 Min. of Te 1413.61
+pattern: ..........
+cont=14893, acum=14893, c=1373950
+374 .......... 1417.41
+pattern: meroon (co
+cont=2, acum=2, c=1373952
+375 meroon (co 1421.22
+pattern:  Arabia (c
+cont=2, acum=2, c=1373954
+376  Arabia (c 1425.06
+pattern: ..........
+cont=14893, acum=14893, c=1388847
+377 .......... 1428.89
+pattern:  .........
+cont=1987, acum=1987, c=1390834
+378  ......... 1432.63
+pattern: rior Min. 
+cont=36, acum=36, c=1390870
+379 rior Min.  1436.37
+pattern: ing ......
+cont=82, acum=82, c=1390952
+380 ing ...... 1440.13
+pattern: ..........
+cont=14893, acum=14893, c=1405845
+381 .......... 1443.9
+pattern: hiefs ofSt
+cont=1, acum=1, c=1405846
+382 hiefs ofSt 1447.67
+pattern: (continued
+cont=95, acum=95, c=1405941
+383 (continued 1451.49
+pattern: ity Min. o
+cont=98, acum=98, c=1406039
+384 ity Min. o 1455.29
+pattern: ...... Min
+cont=4196, acum=4196, c=1410235
+385 ...... Min 1459.04
+pattern: MLJENOVIC 
+cont=7, acum=7, c=1410242
+386 MLJENOVIC  1462.77
+pattern: of State f
+cont=359, acum=359, c=1410601
+387 of State f 1466.51
+pattern: ..........
+cont=14893, acum=14893, c=1425494
+388 .......... 1470.26
+pattern: Chief Govt
+cont=1, acum=1, c=1425495
+389 Chief Govt 1474
+pattern: nce ......
+cont=41, acum=41, c=1425536
+390 nce ...... 1477.79
+pattern:  & the OAS
+cont=2, acum=2, c=1425538
+391  & the OAS 1481.53
+pattern: ..........
+cont=14893, acum=14893, c=1440431
+392 .......... 1485.33
+pattern:  Victor TV
+cont=3, acum=3, c=1440434
+393  Victor TV 1489.05
+pattern:  Services 
+cont=123, acum=123, c=1440557
+394  Services  1492.81
+pattern:  (continue
+cont=390, acum=390, c=1440947
+395  (continue 1496.57
+pattern: ysia (cont
+cont=3, acum=3, c=1440950
+396 ysia (cont 1500.34
+pattern: d KRAMER M
+cont=1, acum=1, c=1440951
+397 d KRAMER M 1504.13
+pattern: Mauritania
+cont=13, acum=13, c=1440964
+398 Mauritania 1507.92
+pattern: ..........
+cont=14893, acum=14893, c=1455857
+399 .......... 1511.69
+pattern: Farah Huja
+cont=3, acum=3, c=1455860
+400 Farah Huja 1515.49
+pattern: e Kepa, Te
+cont=2, acum=2, c=1455862
+401 e Kepa, Te 1519.4
+pattern: & Internal
+cont=17, acum=17, c=1455879
+402 & Internal 1523
+pattern: desh (cont
+cont=1, acum=1, c=1455880
+403 desh (cont 1526.77
+pattern:  Min. of T
+cont=970, acum=970, c=1456850
+404  Min. of T 1530.5
+pattern: ..........
+cont=14893, acum=14893, c=1471743
+405 .......... 1534.31
+pattern: is de Mato
+cont=1, acum=1, c=1471744
+406 is de Mato 1538.15
+pattern: SAID, Dr. 
+cont=1, acum=1, c=1471745
+407 SAID, Dr.  1541.92
+pattern: ncent and 
+cont=1, acum=1, c=1471746
+408 ncent and  1545.67
+pattern: ..........
+cont=14893, acum=14893, c=1486639
+409 .......... 1549.38
+pattern: South Afri
+cont=16, acum=16, c=1486655
+410 South Afri 1553.13
+pattern: mad al-Bus
+cont=2, acum=2, c=1486657
+411 mad al-Bus 1556.9
+pattern:  .........
+cont=1987, acum=1987, c=1488644
+412  ......... 1560.68
+pattern: GENC EL TE
+cont=1, acum=1, c=1488645
+413 GENC EL TE 1564.45
+pattern: MANOVIC Ha
+cont=1, acum=1, c=1488646
+414 MANOVIC Ha 1568.25
+pattern: ..........
+cont=14893, acum=14893, c=1503539
+415 .......... 1572.05
+pattern: HENG THONG
+cont=1, acum=1, c=1503540
+416 HENG THONG 1575.86
+pattern: ..........
+cont=14893, acum=14893, c=1518433
+417 .......... 1579.61
+pattern: er KISS Gy
+cont=1, acum=1, c=1518434
+418 er KISS Gy 1583.38
+pattern:  Jesus Vei
+cont=1, acum=1, c=1518435
+419  Jesus Vei 1587.19
+pattern:  Szili, Ka
+cont=6, acum=6, c=1518441
+420  Szili, Ka 1590.97
+pattern:  MANSOURI 
+cont=1, acum=1, c=1518442
+421  MANSOURI  1594.75
+pattern: ..........
+cont=14893, acum=14893, c=1533335
+422 .......... 1598.57
+pattern: -feng KAO 
+cont=1, acum=1, c=1533336
+423 -feng KAO  1602.31
+pattern: .. Min. of
+cont=3612, acum=3612, c=1536948
+424 .. Min. of 1606.05
+pattern: Tajikistan
+cont=23, acum=23, c=1536971
+425 Tajikistan 1609.8
+pattern: Mozambique
+cont=18, acum=18, c=1536989
+426 Mozambique 1613.57
+pattern: TO ABBREVI
+cont=1, acum=1, c=1536990
+427 TO ABBREVI 1617.34
+pattern: Costa Rica
+cont=10, acum=10, c=1537000
+428 Costa Rica 1621.13
+pattern: .. Hellot 
+cont=1, acum=1, c=1537001
+429 .. Hellot  1624.98
+pattern: t ........
+cont=397, acum=397, c=1537398
+430 t ........ 1628.72
+pattern: (continued
+cont=95, acum=95, c=1537493
+431 (continued 1632.49
+pattern: ..........
+cont=14893, acum=14893, c=1552386
+432 .......... 1636.25
+pattern: ...... Min
+cont=4196, acum=4196, c=1556582
+433 ...... Min 1639.97
+pattern: ..........
+cont=14893, acum=14893, c=1571475
+434 .......... 1643.73
+pattern: vironment 
+cont=250, acum=250, c=1571725
+435 vironment  1647.51
+pattern: . of State
+cont=575, acum=575, c=1572300
+436 . of State 1651.29
+pattern: ..........
+cont=14893, acum=14893, c=1587193
+437 .......... 1654.9
+pattern: ..........
+cont=14893, acum=14893, c=1602086
+438 .......... 1658.65
+pattern: ..........
+cont=14893, acum=14893, c=1616979
+439 .......... 1662.39
+pattern: ited Kingd
+cont=6, acum=6, c=1616985
+440 ited Kingd 1666.12
+pattern: ......... 
+cont=11885, acum=11885, c=1628870
+441 .........  1669.91
+pattern: an, Lisa M
+cont=2, acum=2, c=1628872
+442 an, Lisa M 1673.68
+pattern: Burkina Fa
+cont=8, acum=8, c=1628880
+443 Burkina Fa 1677.49
+pattern: , Gabriel,
+cont=1, acum=1, c=1628881
+444 , Gabriel, 1681.27
+pattern: resident. 
+cont=4, acum=4, c=1628885
+445 resident.  1685.1
+pattern:  I R E C T
+cont=1, acum=1, c=1628886
+446  I R E C T 1688.87
+pattern: utan---NDE
+cont=3, acum=3, c=1628889
+447 utan---NDE 1692.63
+pattern: Cote d'Ivo
+cont=8, acum=8, c=1628897
+448 Cote d'Ivo 1696.39
+pattern: ..........
+cont=14893, acum=14893, c=1643790
+449 .......... 1700.14
+pattern: continued)
+cont=81, acum=81, c=1643871
+450 continued) 1703.9
+pattern: mmad Yahya
+cont=9, acum=9, c=1643880
+451 mmad Yahya 1707.68
+pattern:  Minister 
+cont=199, acum=199, c=1644079
+452  Minister  1711.5
+pattern: ..........
+cont=14893, acum=14893, c=1658972
+453 .......... 1715.26
+pattern: ..........
+cont=14893, acum=14893, c=1673865
+454 .......... 1719
+pattern:  Rahaingos
+cont=2, acum=2, c=1673867
+455  Rahaingos 1722.73
+pattern: . ........
+cont=541, acum=541, c=1674408
+456 . ........ 1726.49
+pattern: dâIvo
+cont=0, acum=0, c=1674408
+457 dâIvo 1730.26
+pattern: aykha bint
+cont=1, acum=1, c=1674409
+458 aykha bint 1734.04
+pattern: ..........
+cont=14893, acum=14893, c=1689302
+459 .......... 1737.81
+pattern: ..........
+cont=14893, acum=14893, c=1704195
+460 .......... 1741.56
+pattern: Afghanista
+cont=4, acum=4, c=1704199
+461 Afghanista 1745.31
+pattern: ..........
+cont=14893, acum=14893, c=1719092
+462 .......... 1749.02
+pattern: lands Cent
+cont=1, acum=1, c=1719093
+463 lands Cent 1752.8
+pattern:  YOQUBZOD 
+cont=2, acum=2, c=1719095
+464  YOQUBZOD  1756.59
+pattern: bahat ALBA
+cont=1, acum=1, c=1719096
+465 bahat ALBA 1760.4
+pattern: raq (conti
+cont=3, acum=3, c=1719099
+466 raq (conti 1764.18
+pattern: fghanistan
+cont=3, acum=3, c=1719102
+467 fghanistan 1767.97
+pattern: yed Jaafar
+cont=1, acum=1, c=1719103
+468 yed Jaafar 1771.64
+pattern: hilippines
+cont=10, acum=10, c=1719113
+469 hilippines 1775.37
+pattern: (continued
+cont=95, acum=95, c=1719208
+470 (continued 1779.16
+pattern: kistan (co
+cont=7, acum=7, c=1719215
+471 kistan (co 1782.73
+pattern:  I R E C T
+cont=1, acum=1, c=1719216
+472  I R E C T 1786.44
+pattern: stina Khus
+cont=1, acum=1, c=1719217
+473 stina Khus 1790.22
+pattern: ..........
+cont=14893, acum=14893, c=1734110
+474 .......... 1793.93
+pattern: ..........
+cont=14893, acum=14893, c=1749003
+475 .......... 1797.74
+pattern: ..........
+cont=14893, acum=14893, c=1763896
+476 .......... 1801.51
+pattern: Costa Rica
+cont=10, acum=10, c=1763906
+477 Costa Rica 1805.27
+pattern:  Fernandez
+cont=33, acum=33, c=1763939
+478  Fernandez 1809.07
+pattern: ..........
+cont=14893, acum=14893, c=1778832
+479 .......... 1812.8
+pattern: O Kalombo 
+cont=3, acum=3, c=1778835
+480 O Kalombo  1816.56
+pattern: can Republ
+cont=3, acum=3, c=1778838
+481 can Republ 1820.33
+pattern: ..........
+cont=14893, acum=14893, c=1793731
+482 .......... 1824.12
+pattern: ..........
+cont=14893, acum=14893, c=1808624
+483 .......... 1827.87
+pattern: Guyana (co
+cont=4, acum=4, c=1808628
+484 Guyana (co 1831.68
+pattern: sireli LEW
+cont=1, acum=1, c=1808629
+485 sireli LEW 1835.43
+pattern: d Ahmad Ya
+cont=2, acum=2, c=1808631
+486 d Ahmad Ya 1839.19
+pattern: ner ISOUN 
+cont=3, acum=3, c=1808634
+487 ner ISOUN  1843.02
+pattern: ..........
+cont=14893, acum=14893, c=1823527
+488 .......... 1846.76
+pattern: Mauritania
+cont=13, acum=13, c=1823540
+489 Mauritania 1850.6
+pattern: .. Michael
+cont=36, acum=36, c=1823576
+490 .. Michael 1854.42
+pattern: therlands 
+cont=11, acum=11, c=1823587
+491 therlands  1858.15
+pattern: continued)
+cont=81, acum=81, c=1823668
+492 continued) 1861.92
+pattern: bya (conti
+cont=3, acum=3, c=1823671
+493 bya (conti 1865.68
+pattern: r HOXHAJ J
+cont=1, acum=1, c=1823672
+494 r HOXHAJ J 1869.44
+pattern: Mauritania
+cont=13, acum=13, c=1823685
+495 Mauritania 1873.16
+pattern: in. of For
+cont=311, acum=311, c=1823996
+496 in. of For 1876.95
+pattern:  for Relat
+cont=11, acum=11, c=1824007
+497  for Relat 1880.73
+pattern: nea-Bissau
+cont=5, acum=5, c=1824012
+498 nea-Bissau 1884.54
+pattern: San Marino
+cont=13, acum=13, c=1824025
+499 San Marino 1888.3
+pattern: Sec. for J
+cont=8, acum=8, c=1824033
+500 Sec. for J 1892.08
+pattern: a DAVOY Va
+cont=1, acum=1, c=1824034
+501 a DAVOY Va 1895.86
+pattern:  Rona AMBR
+cont=8, acum=8, c=1824042
+502  Rona AMBR 1899.63
+pattern: dor to NAT
+cont=3, acum=3, c=1824045
+503 dor to NAT 1903.34
+pattern: ..........
+cont=14893, acum=14893, c=1838938
+504 .......... 1907.08
+pattern: , Ba Odett
+cont=2, acum=2, c=1838940
+505 , Ba Odett 1910.86
+pattern: Social Wel
+cont=54, acum=54, c=1838994
+506 Social Wel 1914.7
+pattern: ..........
+cont=14893, acum=14893, c=1853887
+507 .......... 1918.42
+pattern: ilia MATAB
+cont=2, acum=2, c=1853889
+508 ilia MATAB 1922.18
+pattern: Head, Pres
+cont=5, acum=5, c=1853894
+509 Head, Pres 1925.94
+pattern: es. ......
+cont=310, acum=310, c=1854204
+510 es. ...... 1929.7
+pattern: f Internal
+cont=105, acum=105, c=1854309
+511 f Internal 1933.45
+pattern: . of Touri
+cont=217, acum=217, c=1854526
+512 . of Touri 1937.24
+pattern: jikistan (
+cont=5, acum=5, c=1854531
+513 jikistan ( 1941.02
+pattern:  Jayawarde
+cont=3, acum=3, c=1854534
+514  Jayawarde 1944.84
+pattern: ..........
+cont=14893, acum=14893, c=1869427
+515 .......... 1948.6
+pattern: ..........
+cont=14893, acum=14893, c=1884320
+516 .......... 1952.37
+pattern: shwant Sin
+cont=1, acum=1, c=1884321
+517 shwant Sin 1956.2
+pattern: nesia (con
+cont=3, acum=3, c=1884324
+518 nesia (con 1959.97
+pattern: nt Min. of
+cont=355, acum=355, c=1884679
+519 nt Min. of 1963.72
+pattern: Cote d'Ivo
+cont=8, acum=8, c=1884687
+520 Cote d'Ivo 1967.48
+pattern: ..........
+cont=14893, acum=14893, c=1899580
+521 .......... 1971.31
+pattern: ocratic Re
+cont=3, acum=3, c=1899583
+522 ocratic Re 1975.06
+pattern: ..........
+cont=14893, acum=14893, c=1914476
+523 .......... 1978.82
+pattern: Madagascar
+cont=19, acum=19, c=1914495
+524 Madagascar 1982.65
+pattern: ..........
+cont=14893, acum=14893, c=1929388
+525 .......... 1986.36
+pattern: ..........
+cont=14893, acum=14893, c=1944281
+526 .......... 1990.12
+pattern: Czech Repu
+cont=8, acum=8, c=1944289
+527 Czech Repu 1994.08
+pattern: ..........
+cont=14893, acum=14893, c=1959182
+528 .......... 1997.91
+pattern: ..........
+cont=14893, acum=14893, c=1974075
+529 .......... 2001.7
+pattern: Min. for L
+cont=75, acum=75, c=1974150
+530 Min. for L 2005.46
+pattern: of Trade &
+cont=61, acum=61, c=1974211
+531 of Trade & 2009.22
+pattern:  Min. of J
+cont=375, acum=375, c=1974586
+532  Min. of J 2012.92
+pattern: hidov, Ali
+cont=2, acum=2, c=1974588
+533 hidov, Ali 2016.68
+pattern: ote d'Ivoi
+cont=5, acum=5, c=1974593
+534 ote d'Ivoi 2020.45
+pattern: f Justice 
+cont=352, acum=352, c=1974945
+535 f Justice  2024.29
+pattern: ia (contin
+cont=76, acum=76, c=1975021
+536 ia (contin 2028.08
+pattern: rab Emirat
+cont=1, acum=1, c=1975022
+537 rab Emirat 2031.87
+pattern:  IRANI Zia
+cont=1, acum=1, c=1975023
+538  IRANI Zia 2035.62
+pattern: ragan DJUR
+cont=3, acum=3, c=1975026
+539 ragan DJUR 2039.36
+pattern: ic (contin
+cont=4, acum=4, c=1975030
+540 ic (contin 2043.02
+pattern: ong RI Son
+cont=1, acum=1, c=1975031
+541 ong RI Son 2046.72
+pattern:  (continue
+cont=390, acum=390, c=1975421
+542  (continue 2050.51
+pattern:  Min. of G
+cont=109, acum=109, c=1975530
+543  Min. of G 2054.33
+pattern: Cook Islan
+cont=8, acum=8, c=1975538
+544 Cook Islan 2057.93
+pattern:  Council .
+cont=29, acum=29, c=1975567
+545  Council . 2061.52
+pattern: a, Bob Mte
+cont=1, acum=1, c=1975568
+546 a, Bob Mte 2065.16
+pattern: n HANNA Hu
+cont=1, acum=1, c=1975569
+547 n HANNA Hu 2068.85
+pattern: nited King
+cont=10, acum=10, c=1975579
+548 nited King 2072.42
+pattern: rra (conti
+cont=1, acum=1, c=1975580
+549 rra (conti 2076.12
+pattern: a (continu
+cont=141, acum=141, c=1975721
+550 a (continu 2079.75
+pattern: y (continu
+cont=16, acum=16, c=1975737
+551 y (continu 2083.35
+pattern: a (continu
+cont=141, acum=141, c=1975878
+552 a (continu 2086.88
+pattern: ..........
+cont=14893, acum=14893, c=1990771
+553 .......... 2090.62
+pattern: v, Oqil Tu
+cont=1, acum=1, c=1990772
+554 v, Oqil Tu 2094.52
+pattern: ..........
+cont=14893, acum=14893, c=2005665
+555 .......... 2098.31
+pattern: Efrain Hug
+cont=2, acum=2, c=2005667
+556 Efrain Hug 2102.13
+pattern: ing, & Lan
+cont=6, acum=6, c=2005673
+557 ing, & Lan 2105.91
+pattern: outh (cont
+cont=2, acum=2, c=2005675
+558 outh (cont 2109.68
+pattern: ..........
+cont=14893, acum=14893, c=2020568
+559 .......... 2113.14
+pattern: Foreign Af
+cont=267, acum=267, c=2020835
+560 Foreign Af 2116.87
+pattern: c Republic
+cont=1, acum=1, c=2020836
+561 c Republic 2120.62
+pattern: tonio Hama
+cont=3, acum=3, c=2020839
+562 tonio Hama 2124.38
+pattern: nam (conti
+cont=2, acum=2, c=2020841
+563 nam (conti 2128.06
+pattern: binet Affa
+cont=4, acum=4, c=2020845
+564 binet Affa 2131.82
+pattern: alid Khrei
+cont=1, acum=1, c=2020846
+565 alid Khrei 2135.57
+pattern: to meet th
+cont=1, acum=1, c=2020847
+566 to meet th 2139.33
+pattern: ands (cont
+cont=8, acum=8, c=2020855
+567 ands (cont 2143.12
+pattern: ..........
+cont=14893, acum=14893, c=2035748
+568 .......... 2146.89
+pattern:  Transport
+cont=465, acum=465, c=2036213
+569  Transport 2150.66
+pattern: NFAR Abdul
+cont=1, acum=1, c=2036214
+570 NFAR Abdul 2154.5
+pattern: ..........
+cont=14893, acum=14893, c=2051107
+571 .......... 2158.29
+pattern: ..........
+cont=14893, acum=14893, c=2066000
+572 .......... 2162.08
+pattern:  R N M E N
+cont=1, acum=1, c=2066001
+573  R N M E N 2165.88
+pattern: aragua (co
+cont=2, acum=2, c=2066003
+574 aragua (co 2169.63
+pattern: R Abdel Ba
+cont=1, acum=1, c=2066004
+575 R Abdel Ba 2173.23
+pattern: MBAO Gibso
+cont=2, acum=2, c=2066006
+576 MBAO Gibso 2176.77
+pattern:  is intend
+cont=3, acum=3, c=2066009
+577  is intend 2180.36
+pattern: , Sports a
+cont=1, acum=1, c=2066010
+578 , Sports a 2184.11
+pattern: John, Velo
+cont=3, acum=3, c=2066013
+579 John, Velo 2187.89
+pattern: nt Promoti
+cont=9, acum=9, c=2066022
+580 nt Promoti 2191.67
+pattern: Tajikistan
+cont=23, acum=23, c=2066045
+581 Tajikistan 2195.45
+pattern: rles Brune
+cont=1, acum=1, c=2066046
+582 rles Brune 2199.18
+pattern: ..........
+cont=14893, acum=14893, c=2080939
+583 .......... 2202.89
+pattern: EL LIGENC 
+cont=2, acum=2, c=2080941
+584 EL LIGENC  2206.7
+pattern: ers ......
+cont=13, acum=13, c=2080954
+585 ers ...... 2210.49
+pattern:  of Commer
+cont=135, acum=135, c=2081089
+586  of Commer 2214.25
+pattern: efs ofStat
+cont=1, acum=1, c=2081090
+587 efs ofStat 2218.05
+pattern: isenia QAR
+cont=3, acum=3, c=2081093
+588 isenia QAR 2221.84
+pattern: ech Republ
+cont=3, acum=3, c=2081096
+589 ech Republ 2225.6
+pattern: ..........
+cont=14893, acum=14893, c=2095989
+590 .......... 2229.34
+pattern: iqa, Moham
+cont=4, acum=4, c=2095993
+591 iqa, Moham 2233.18
+pattern: to the UN,
+cont=16, acum=16, c=2096009
+592 to the UN, 2236.96
+pattern: ..........
+cont=14893, acum=14893, c=2110902
+593 .......... 2240.76
+pattern: E-COBURG-G
+cont=1, acum=1, c=2110903
+594 E-COBURG-G 2244.52
+pattern: CabinetMem
+cont=7, acum=7, c=2110910
+595 CabinetMem 2248.3
+pattern: ..........
+cont=14893, acum=14893, c=2125803
+596 .......... 2252.05
+pattern: al Bank of
+cont=25, acum=25, c=2125828
+597 al Bank of 2255.81
+pattern:  the US ..
+cont=11, acum=11, c=2125839
+598  the US .. 2259.74
+pattern: . of Econo
+cont=232, acum=232, c=2126071
+599 . of Econo 2263.85
+pattern: ..........
+cont=14893, acum=14893, c=2140964
+600 .......... 2267.66
+pattern: , Lesao Bu
+cont=1, acum=1, c=2140965
+601 , Lesao Bu 2271.34
+pattern: urma (cont
+cont=2, acum=2, c=2140967
+602 urma (cont 2275.15
+pattern: ..........
+cont=14893, acum=14893, c=2155860
+603 .......... 2279.07
+pattern: UN, New Yo
+cont=23, acum=23, c=2155883
+604 UN, New Yo 2282.93
+pattern: reparation
+cont=2, acum=2, c=2155885
+605 reparation 2286.64
+pattern: ibouti (co
+cont=1, acum=1, c=2155886
+606 ibouti (co 2290.33
+pattern: Durga SHRE
+cont=3, acum=3, c=2155889
+607 Durga SHRE 2294.04
+pattern: rs .......
+cont=132, acum=132, c=2156021
+608 rs ....... 2297.8
+pattern: ..........
+cont=14893, acum=14893, c=2170914
+609 .......... 2301.85
+pattern: su Chon Yu
+cont=1, acum=1, c=2170915
+610 su Chon Yu 2305.59
+pattern: li Ahmad J
+cont=4, acum=4, c=2170919
+611 li Ahmad J 2309.42
+pattern: drut SERES
+cont=1, acum=1, c=2170920
+612 drut SERES 2313.29
+pattern: ..........
+cont=14893, acum=14893, c=2185813
+613 .......... 2317.08
+pattern: f Intellig
+cont=5, acum=5, c=2185818
+614 f Intellig 2320.83
+pattern: ..........
+cont=14893, acum=14893, c=2200711
+615 .......... 2324.48
+pattern: ications .
+cont=31, acum=31, c=2200742
+616 ications . 2328.08
+pattern:  of Cultur
+cont=222, acum=222, c=2200964
+617  of Cultur 2331.71
+pattern: osefa ILOI
+cont=1, acum=1, c=2200965
+618 osefa ILOI 2335.39
+pattern: ..........
+cont=14893, acum=14893, c=2215858
+619 .......... 2339.02
+pattern:  Sec. Gen.
+cont=84, acum=84, c=2215942
+620  Sec. Gen. 2342.68
+pattern: resident A
+cont=8, acum=8, c=2215950
+621 resident A 2346.34
+pattern:  DRAGHI Gi
+cont=1, acum=1, c=2215951
+622  DRAGHI Gi 2349.94
+pattern: ia and Mon
+cont=2, acum=2, c=2215953
+623 ia and Mon 2353.58
+pattern: ora SILIYA
+cont=4, acum=4, c=2215957
+624 ora SILIYA 2357.35
+pattern: resident A
+cont=8, acum=8, c=2215965
+625 resident A 2361.13
+pattern: ..........
+cont=14893, acum=14893, c=2230858
+626 .......... 2364.89
+pattern: can Republ
+cont=3, acum=3, c=2230861
+627 can Republ 2368.64
+pattern: ..........
+cont=14893, acum=14893, c=2245754
+628 .......... 2372.4
+pattern: Rosalia CO
+cont=1, acum=1, c=2245755
+629 Rosalia CO 2376.17
+pattern: Defense & 
+cont=74, acum=74, c=2245829
+630 Defense &  2379.96
+pattern: tican City
+cont=1, acum=1, c=2245830
+631 tican City 2383.74
+pattern: eiro, Joao
+cont=1, acum=1, c=2245831
+632 eiro, Joao 2387.51
+pattern: an (contin
+cont=22, acum=22, c=2245853
+633 an (contin 2391.11
+pattern: US Permane
+cont=43, acum=43, c=2245896
+634 US Permane 2395.05
+pattern:  Antonio M
+cont=28, acum=28, c=2245924
+635  Antonio M 2398.7
+pattern: es (contin
+cont=11, acum=11, c=2245935
+636 es (contin 2402.32
+pattern: al Securit
+cont=87, acum=87, c=2246022
+637 al Securit 2406.01
+pattern: Gambia, Th
+cont=6, acum=6, c=2246028
+638 Gambia, Th 2409.63
+pattern: arba Madak
+cont=2, acum=2, c=2246030
+639 arba Madak 2413.26
+pattern:  Faso (con
+cont=1, acum=1, c=2246031
+640  Faso (con 2416.87
+pattern: ..........
+cont=14893, acum=14893, c=2260924
+641 .......... 2420.49
+pattern: ..........
+cont=14893, acum=14893, c=2275817
+642 .......... 2424.25
+pattern: ..........
+cont=14893, acum=14893, c=2290710
+643 .......... 2428.04
+pattern: Tajikistan
+cont=23, acum=23, c=2290733
+644 Tajikistan 2431.9
+pattern: ..........
+cont=14893, acum=14893, c=2305626
+645 .......... 2435.67
+pattern: dent Vice 
+cont=89, acum=89, c=2305715
+646 dent Vice  2439.43
+pattern: ium (conti
+cont=1, acum=1, c=2305716
+647 ium (conti 2443.19
+pattern:  Directory
+cont=2, acum=2, c=2305718
+648  Directory 2446.94
+pattern: te Missong
+cont=1, acum=1, c=2305719
+649 te Missong 2450.73
+pattern: na CARCASS
+cont=1, acum=1, c=2305720
+650 na CARCASS 2454.54
+pattern: ZIMOV Vlad
+cont=1, acum=1, c=2305721
+651 ZIMOV Vlad 2458.39
+pattern: ..........
+cont=14893, acum=14893, c=2320614
+652 .......... 2462.15
+pattern: A, Maj. Ge
+cont=6, acum=6, c=2320620
+653 A, Maj. Ge 2465.92
+pattern: hiefs ofSt
+cont=1, acum=1, c=2320621
+654 hiefs ofSt 2469.67
+pattern: UES Olivio
+cont=1, acum=1, c=2320622
+655 UES Olivio 2473.4
+pattern:  Jabir Al 
+cont=9, acum=9, c=2320631
+656  Jabir Al  2477.14
+pattern: ..........
+cont=14893, acum=14893, c=2335524
+657 .......... 2480.87
+pattern: ..........
+cont=14893, acum=14893, c=2350417
+658 .......... 2484.71
+pattern:  this dire
+cont=2, acum=2, c=2350419
+659  this dire 2488.44
+pattern:  Min. Del.
+cont=197, acum=197, c=2350616
+660  Min. Del. 2492.19
+pattern: dante Chai
+cont=1, acum=1, c=2350617
+661 dante Chai 2495.98
+pattern: rism, Hand
+cont=2, acum=2, c=2350619
+662 rism, Hand 2499.74
+pattern: ..........
+cont=14893, acum=14893, c=2365512
+663 .......... 2503.49
+pattern: ptain Comm
+cont=1, acum=1, c=2365513
+664 ptain Comm 2507.29
+pattern: c, Lidija 
+cont=6, acum=6, c=2365519
+665 c, Lidija  2511.06
+pattern: Saint Luci
+cont=13, acum=13, c=2365532
+666 Saint Luci 2514.84
+pattern: Cubaâ
+cont=0, acum=0, c=2365532
+667 Cubaâ 2518.67
+pattern: ..........
+cont=14893, acum=14893, c=2380425
+668 .......... 2522.44
+pattern: zstan (con
+cont=2, acum=2, c=2380427
+669 zstan (con 2526.2
+pattern: ..........
+cont=14893, acum=14893, c=2395320
+670 .......... 2529.96
+pattern: .... Anna 
+cont=2, acum=2, c=2395322
+671 .... Anna  2533.72
+pattern:  & Tourism
+cont=86, acum=86, c=2395408
+672  & Tourism 2537.49
+pattern: ernando Fa
+cont=1, acum=1, c=2395409
+673 ernando Fa 2541.29
+pattern: ngo, Repub
+cont=3, acum=3, c=2395412
+674 ngo, Repub 2545.07
+pattern: ... Prime 
+cont=115, acum=115, c=2395527
+675 ... Prime  2548.83
+pattern:  Training 
+cont=58, acum=58, c=2395585
+676  Training  2552.59
+pattern: uela RAMIN
+cont=1, acum=1, c=2395586
+677 uela RAMIN 2556.34
+pattern: er KAMITAT
+cont=1, acum=1, c=2395587
+678 er KAMITAT 2560.1
+pattern:  THEIN, Br
+cont=3, acum=3, c=2395590
+679  THEIN, Br 2564.14
+pattern: Min. of Fo
+cont=505, acum=505, c=2396095
+680 Min. of Fo 2567.87
+pattern:  Economic 
+cont=226, acum=226, c=2396321
+681  Economic  2571.66
+pattern: ...... Min
+cont=4196, acum=4196, c=2400517
+682 ...... Min 2575.54
+pattern: jolo, Giov
+cont=1, acum=1, c=2400518
+683 jolo, Giov 2579.23
+pattern: ..........
+cont=14893, acum=14893, c=2415411
+684 .......... 2583.06
+pattern: iefs ofSta
+cont=1, acum=1, c=2415412
+685 iefs ofSta 2586.74
+pattern: any Affair
+cont=1, acum=1, c=2415413
+686 any Affair 2590.52
+pattern: (continued
+cont=95, acum=95, c=2415508
+687 (continued 2594.19
+pattern: Bangladesh
+cont=14, acum=14, c=2415522
+688 Bangladesh 2597.96
+pattern: ES ALVARAD
+cont=1, acum=1, c=2415523
+689 ES ALVARAD 2601.74
+pattern: waytir, Ab
+cont=2, acum=2, c=2415525
+690 waytir, Ab 2605.53
+pattern: restry ...
+cont=18, acum=18, c=2415543
+691 restry ... 2609.31
+pattern: ..........
+cont=14893, acum=14893, c=2430436
+692 .......... 2613.06
+pattern: ..........
+cont=14893, acum=14893, c=2445329
+693 .......... 2616.77
+pattern: ..........
+cont=14893, acum=14893, c=2460222
+694 .......... 2620.61
+pattern: ousing & P
+cont=6, acum=6, c=2460228
+695 ousing & P 2624.43
+pattern: Min. of Yo
+cont=196, acum=196, c=2460424
+696 Min. of Yo 2628.19
+pattern: remier) Se
+cont=1, acum=1, c=2460425
+697 remier) Se 2631.97
+pattern: n. of Reco
+cont=5, acum=5, c=2460430
+698 n. of Reco 2635.74
+pattern: a (continu
+cont=141, acum=141, c=2460571
+699 a (continu 2639.53
+pattern: ..........
+cont=14893, acum=14893, c=2475464
+700 .......... 2643.25
+pattern: ..........
+cont=14893, acum=14893, c=2490357
+701 .......... 2647
+pattern: ......... 
+cont=11885, acum=11885, c=2502242
+702 .........  2650.8
+pattern: TI Catheri
+cont=1, acum=1, c=2502243
+703 TI Catheri 2654.55
+pattern: al (contin
+cont=6, acum=6, c=2502249
+704 al (contin 2658.38
+pattern: es. ......
+cont=310, acum=310, c=2502559
+705 es. ...... 2662.16
+pattern: n. of Inte
+cont=284, acum=284, c=2502843
+706 n. of Inte 2665.96
+pattern: Mendes, Lu
+cont=3, acum=3, c=2502846
+707 Mendes, Lu 2669.78
+pattern: t of Final
+cont=1, acum=1, c=2502847
+708 t of Final 2673.56
+pattern: .. Min. of
+cont=3612, acum=3612, c=2506459
+709 .. Min. of 2677.34
+pattern: ..........
+cont=14893, acum=14893, c=2521352
+710 .......... 2681.1
+pattern: NJEZE Aish
+cont=2, acum=2, c=2521354
+711 NJEZE Aish 2684.88
+pattern: anent Repr
+cont=1, acum=1, c=2521355
+712 anent Repr 2688.67
+pattern: nt Min. of
+cont=355, acum=355, c=2521710
+713 nt Min. of 2692.49
+pattern: ..........
+cont=14893, acum=14893, c=2536603
+714 .......... 2696.24
+pattern:  Household
+cont=1, acum=1, c=2536604
+715  Household 2700.03
+pattern: ..........
+cont=14893, acum=14893, c=2551497
+716 .......... 2703.78
+pattern: o OBHODJAS
+cont=2, acum=2, c=2551499
+717 o OBHODJAS 2707.74
+pattern: ..........
+cont=14893, acum=14893, c=2566392
+718 .......... 2711.39
+pattern: vernment (
+cont=6, acum=6, c=2566398
+719 vernment ( 2715.12
+pattern: ..........
+cont=14893, acum=14893, c=2581291
+720 .......... 2719.01
+pattern: ......... 
+cont=11885, acum=11885, c=2593176
+721 .........  2722.82
+pattern: OOL Roosev
+cont=1, acum=1, c=2593177
+722 OOL Roosev 2726.47
+pattern: e ........
+cont=273, acum=273, c=2593450
+723 e ........ 2730.08
+pattern: ce Preside
+cont=28, acum=28, c=2593478
+724 ce Preside 2733.71
+pattern: l Developm
+cont=82, acum=82, c=2593560
+725 l Developm 2737.33
+pattern: na (contin
+cont=10, acum=10, c=2593570
+726 na (contin 2740.98
+pattern: . of Natio
+cont=192, acum=192, c=2593762
+727 . of Natio 2744.66
+pattern: enya (cont
+cont=3, acum=3, c=2593765
+728 enya (cont 2748.28
+pattern: ..........
+cont=14893, acum=14893, c=2608658
+729 .......... 2751.9
+pattern: ..........
+cont=14893, acum=14893, c=2623551
+730 .......... 2755.52
+pattern: ..........
+cont=14893, acum=14893, c=2638444
+731 .......... 2759.3
+pattern: ..........
+cont=14893, acum=14893, c=2653337
+732 .......... 2763.06
+pattern: ..........
+cont=14893, acum=14893, c=2668230
+733 .......... 2766.86
+pattern: EMIA Alesa
+cont=1, acum=1, c=2668231
+734 EMIA Alesa 2770.67
+pattern: l Races, &
+cont=1, acum=1, c=2668232
+735 l Races, & 2774.46
+pattern: onal Train
+cont=8, acum=8, c=2668240
+736 onal Train 2778.26
+pattern: a Elizondo
+cont=2, acum=2, c=2668242
+737 a Elizondo 2782.01
+pattern:  (continue
+cont=390, acum=390, c=2668632
+738  (continue 2785.78
+pattern: Sierra Leo
+cont=14, acum=14, c=2668646
+739 Sierra Leo 2789.56
+pattern: ries .....
+cont=25, acum=25, c=2668671
+740 ries ..... 2793.31
+pattern: g Seo PHU 
+cont=1, acum=1, c=2668672
+741 g Seo PHU  2797.1
+pattern: hina (cont
+cont=4, acum=4, c=2668676
+742 hina (cont 2800.89
+pattern: Cote d'Ivo
+cont=8, acum=8, c=2668684
+743 Cote d'Ivo 2804.68
+pattern: rce & Indu
+cont=20, acum=20, c=2668704
+744 rce & Indu 2808.43
+pattern: Costa Rica
+cont=10, acum=10, c=2668714
+745 Costa Rica 2812.2
+pattern: ermany (co
+cont=2, acum=2, c=2668716
+746 ermany (co 2815.96
+pattern: ..........
+cont=14893, acum=14893, c=2683609
+747 .......... 2819.62
+pattern: Uzbekistan
+cont=23, acum=23, c=2683632
+748 Uzbekistan 2823.88
+pattern: ransport M
+cont=68, acum=68, c=2683700
+749 ransport M 2827.48
+pattern: ve to the 
+cont=9, acum=9, c=2683709
+750 ve to the  2831.36
+pattern: ohammed Ci
+cont=1, acum=1, c=2683710
+751 ohammed Ci 2835.19
+pattern: ..........
+cont=14893, acum=14893, c=2698603
+752 .......... 2838.99
+pattern: ..........
+cont=14893, acum=14893, c=2713496
+753 .......... 2842.75
+pattern: Erik Kalli
+cont=1, acum=1, c=2713497
+754 Erik Kalli 2846.5
+pattern: AW ROYALL 
+cont=1, acum=1, c=2713498
+755 AW ROYALL  2850.25
+pattern: continued)
+cont=81, acum=81, c=2713579
+756 continued) 2854.02
+pattern: Suleimane 
+cont=2, acum=2, c=2713581
+757 Suleimane  2857.84
+pattern: him Qarqin
+cont=1, acum=1, c=2713582
+758 him Qarqin 2861.59
+pattern: nia, The F
+cont=1, acum=1, c=2713583
+759 nia, The F 2865.36
+pattern: ..........
+cont=14893, acum=14893, c=2728476
+760 .......... 2869.09
+pattern: ..........
+cont=14893, acum=14893, c=2743369
+761 .......... 2872.83
+pattern: e ........
+cont=273, acum=273, c=2743642
+762 e ........ 2876.58
+pattern: ua-chu Jas
+cont=2, acum=2, c=2743644
+763 ua-chu Jas 2880.36
+pattern: ali, Assou
+cont=2, acum=2, c=2743646
+764 ali, Assou 2884.19
+pattern: DE (contin
+cont=5, acum=5, c=2743651
+765 DE (contin 2888
+pattern: Owen Mille
+cont=1, acum=1, c=2743652
+766 Owen Mille 2891.86
+pattern: w Guinea (
+cont=3, acum=3, c=2743655
+767 w Guinea ( 2895.66
+pattern: nt Min. of
+cont=355, acum=355, c=2744010
+768 nt Min. of 2899.4
+pattern: ty .......
+cont=53, acum=53, c=2744063
+769 ty ....... 2903.15
+pattern: New Zealan
+cont=16, acum=16, c=2744079
+770 New Zealan 2906.92
+pattern: sija Rene 
+cont=1, acum=1, c=2744080
+771 sija Rene  2910.66
+pattern: griculture
+cont=185, acum=185, c=2744265
+772 griculture 2914.4
+pattern: ..........
+cont=14893, acum=14893, c=2759158
+773 .......... 2918.25
+pattern: utari, Ous
+cont=2, acum=2, c=2759160
+774 utari, Ous 2922.03
+pattern: e and Prin
+cont=1, acum=1, c=2759161
+775 e and Prin 2925.79
+pattern: esponsibil
+cont=4, acum=4, c=2759165
+776 esponsibil 2929.57
+pattern: ..........
+cont=14893, acum=14893, c=2774058
+777 .......... 2933.34
+pattern: ncis Pak-u
+cont=2, acum=2, c=2774060
+778 ncis Pak-u 2937.12
+pattern: fina Elizo
+cont=2, acum=2, c=2774062
+779 fina Elizo 2940.92
+pattern: (continued
+cont=95, acum=95, c=2774157
+780 (continued 2944.72
+pattern: baâND
+cont=0, acum=0, c=2774157
+781 baâND 2948.5
+pattern: Social Aff
+cont=131, acum=131, c=2774288
+782 Social Aff 2952.27
+pattern: Saint Luci
+cont=13, acum=13, c=2774301
+783 Saint Luci 2956.05
+pattern: SANGALA Eu
+cont=1, acum=1, c=2774302
+784 SANGALA Eu 2959.79
+pattern: n. of Cult
+cont=226, acum=226, c=2774528
+785 n. of Cult 2963.58
+pattern: vernor, Ce
+cont=12, acum=12, c=2774540
+786 vernor, Ce 2967.34
+pattern: ht Affairs
+cont=1, acum=1, c=2774541
+787 ht Affairs 2971.16
+pattern: ..........
+cont=14893, acum=14893, c=2789434
+788 .......... 2974.96
+pattern: Costa Rica
+cont=10, acum=10, c=2789444
+789 Costa Rica 2978.73
+pattern: hilippines
+cont=10, acum=10, c=2789454
+790 hilippines 2982.49
+pattern: Azerbaijan
+cont=5, acum=5, c=2789459
+791 Azerbaijan 2986.31
+pattern: ro, Jorge 
+cont=3, acum=3, c=2789462
+792 ro, Jorge  2990.1
+pattern: ouradine D
+cont=2, acum=2, c=2789464
+793 ouradine D 2993.92
+pattern: KERAHO Mon
+cont=2, acum=2, c=2789466
+794 KERAHO Mon 2997.74
+pattern: lotaire Ch
+cont=2, acum=2, c=2789468
+795 lotaire Ch 3001.47
+pattern: Luxembourg
+cont=15, acum=15, c=2789483
+796 Luxembourg 3005.25
+pattern: h Republic
+cont=5, acum=5, c=2789488
+797 h Republic 3008.9
+pattern: ....... Pr
+cont=349, acum=349, c=2789837
+798 ....... Pr 3012.69
+pattern: ..........
+cont=14893, acum=14893, c=2804730
+799 .......... 3016.47
+pattern: continued)
+cont=81, acum=81, c=2804811
+800 continued) 3020.34
+pattern: Transporta
+cont=169, acum=169, c=2804980
+801 Transporta 3023.99
+pattern:  Min. of E
+cont=1295, acum=1295, c=2806275
+802  Min. of E 3027.77
+pattern: Mozambique
+cont=18, acum=18, c=2806293
+803 Mozambique 3031.65
+pattern: ruba (cont
+cont=2, acum=2, c=2806295
+804 ruba (cont 3035.41
+pattern: ..........
+cont=14893, acum=14893, c=2821188
+805 .......... 3039.23
+pattern: oje NOVIC 
+cont=4, acum=4, c=2821192
+806 oje NOVIC  3042.95
+pattern: e Affairs 
+cont=150, acum=150, c=2821342
+807 e Affairs  3046.76
+pattern: , Transpor
+cont=40, acum=40, c=2821382
+808 , Transpor 3050.52
+pattern: ambique (c
+cont=2, acum=2, c=2821384
+809 ambique (c 3054.31
+pattern: Min. of Tr
+cont=528, acum=528, c=2821912
+810 Min. of Tr 3058.08
+pattern: etherlands
+cont=17, acum=17, c=2821929
+811 etherlands 3061.85
+pattern: Cambodia (
+cont=4, acum=4, c=2821933
+812 Cambodia ( 3065.67
+pattern: continued)
+cont=81, acum=81, c=2822014
+813 continued) 3069.46
+pattern: ..........
+cont=14893, acum=14893, c=2836907
+814 .......... 3073.2
+pattern: ......... 
+cont=11885, acum=11885, c=2848792
+815 .........  3076.96
+pattern: tions Min.
+cont=95, acum=95, c=2848887
+816 tions Min. 3080.74
+pattern:  of Navy .
+cont=1, acum=1, c=2848888
+817  of Navy . 3084.87
+pattern: h Republic
+cont=5, acum=5, c=2848893
+818 h Republic 3088.59
+pattern: efs ofStat
+cont=1, acum=1, c=2848894
+819 efs ofStat 3092.47
+pattern: NATAPEI Ja
+cont=1, acum=1, c=2848895
+820 NATAPEI Ja 3096.36
+pattern: evan Adami
+cont=1, acum=1, c=2848896
+821 evan Adami 3100.1
+pattern: ..........
+cont=14893, acum=14893, c=2863789
+822 .......... 3103.86
+pattern: .... Min. 
+cont=4552, acum=4552, c=2868341
+823 .... Min.  3107.62
+pattern: ..........
+cont=14893, acum=14893, c=2883234
+824 .......... 3111.45
+pattern: slim Affai
+cont=1, acum=1, c=2883235
+825 slim Affai 3115.2
+pattern: e UN, New 
+cont=20, acum=20, c=2883255
+826 e UN, New  3119.02
+pattern: ia, Federa
+cont=1, acum=1, c=2883256
+827 ia, Federa 3122.83
+pattern: Frick, Han
+cont=5, acum=5, c=2883261
+828 Frick, Han 3126.65
+pattern:  Artiga, B
+cont=3, acum=3, c=2883264
+829  Artiga, B 3130.43
+pattern: n. of Comm
+cont=289, acum=289, c=2883553
+830 n. of Comm 3134.2
+pattern: WI, Fd. Ma
+cont=2, acum=2, c=2883555
+831 WI, Fd. Ma 3137.99
+pattern: .. Min. of
+cont=3612, acum=3612, c=2887167
+832 .. Min. of 3141.8
+pattern: esmond DAU
+cont=1, acum=1, c=2887168
+833 esmond DAU 3145.59
+pattern:  Bank ....
+cont=15, acum=15, c=2887183
+834  Bank .... 3149.36
+pattern: ..........
+cont=14893, acum=14893, c=2902076
+835 .......... 3153.27
+pattern: nya (conti
+cont=1, acum=1, c=2902077
+836 nya (conti 3157.05
+pattern:  ICR ED ST
+cont=1, acum=1, c=2902078
+837  ICR ED ST 3160.82
+pattern: ..........
+cont=14893, acum=14893, c=2916971
+838 .......... 3164.56
+pattern: itts and N
+cont=1, acum=1, c=2916972
+839 itts and N 3168.33
+pattern: ABD AL-AZI
+cont=11, acum=11, c=2916983
+840 ABD AL-AZI 3172.13
+pattern: hid CRNKIC
+cont=3, acum=3, c=2916986
+841 hid CRNKIC 3175.91
+pattern:  TANKO Hel
+cont=1, acum=1, c=2916987
+842  TANKO Hel 3179.71
+pattern: urma (cont
+cont=2, acum=2, c=2916989
+843 urma (cont 3183.49
+pattern: m al-WAZIR
+cont=1, acum=1, c=2916990
+844 m al-WAZIR 3187.27
+pattern: Lamba, Isa
+cont=3, acum=3, c=2916993
+845 Lamba, Isa 3191.02
+pattern: ea, South 
+cont=2, acum=2, c=2916995
+846 ea, South  3194.8
+pattern: continued)
+cont=81, acum=81, c=2917076
+847 continued) 3198.57
+pattern: ben Cordin
+cont=2, acum=2, c=2917078
+848 ben Cordin 3202.32
+pattern: ahim MAH B
+cont=1, acum=1, c=2917079
+849 ahim MAH B 3206.12
+pattern: Lee, Howar
+cont=4, acum=4, c=2917083
+850 Lee, Howar 3210.03
+pattern: cratic Rep
+cont=1, acum=1, c=2917084
+851 cratic Rep 3213.82
+pattern: ........ M
+cont=4838, acum=4838, c=2921922
+852 ........ M 3217.62
+pattern: (continued
+cont=95, acum=95, c=2922017
+853 (continued 3221.38
+pattern: enistan (c
+cont=1, acum=1, c=2922018
+854 enistan (c 3225.13
+pattern: f Justice 
+cont=352, acum=352, c=2922370
+855 f Justice  3228.91
+pattern: or .......
+cont=58, acum=58, c=2922428
+856 or ....... 3232.69
+pattern: din AHMED 
+cont=14, acum=14, c=2922442
+857 din AHMED  3236.48
+pattern: Khoi NGUYE
+cont=2, acum=2, c=2922444
+858 Khoi NGUYE 3240.28
+pattern: uh Hassane
+cont=1, acum=1, c=2922445
+859 uh Hassane 3244.04
+pattern: continued)
+cont=81, acum=81, c=2922526
+860 continued) 3247.82
+pattern: Transporta
+cont=169, acum=169, c=2922695
+861 Transporta 3251.61
+pattern: ..........
+cont=14893, acum=14893, c=2937588
+862 .......... 3255.36
+pattern: ..........
+cont=14893, acum=14893, c=2952481
+863 .......... 3259.11
+pattern: e SARBU Ga
+cont=1, acum=1, c=2952482
+864 e SARBU Ga 3262.87
+pattern: griculture
+cont=185, acum=185, c=2952667
+865 griculture 3266.67
+pattern: ..........
+cont=14893, acum=14893, c=2967560
+866 .......... 3270.46
+pattern: A PEREIRA 
+cont=3, acum=3, c=2967563
+867 A PEREIRA  3274.23
+pattern: ..........
+cont=14893, acum=14893, c=2982456
+868 .......... 3278
+pattern: rise Restr
+cont=1, acum=1, c=2982457
+869 rise Restr 3281.94
+pattern: . Min. of 
+cont=5759, acum=5759, c=2988216
+870 . Min. of  3285.63
+pattern: ..........
+cont=14893, acum=14893, c=3003109
+871 .......... 3289.71
+pattern: ..........
+cont=14893, acum=14893, c=3018002
+872 .......... 3293.65
+pattern:  Fernando 
+cont=92, acum=92, c=3018094
+873  Fernando  3298.02
+pattern: ..........
+cont=14893, acum=14893, c=3032987
+874 .......... 3302.6
+pattern:  I R E C T
+cont=1, acum=1, c=3032988
+875  I R E C T 3307.27
+pattern: AFA Saufat
+cont=1, acum=1, c=3032989
+876 AFA Saufat 3312.97
+pattern: GULA Pendu
+cont=1, acum=1, c=3032990
+877 GULA Pendu 3319.08
+pattern: fts Min. f
+cont=1, acum=1, c=3032991
+878 fts Min. f 3323.1
+pattern: (continued
+cont=95, acum=95, c=3033086
+879 (continued 3327.91
+pattern: ero MATTEO
+cont=2, acum=2, c=3033088
+880 ero MATTEO 3334.16
+pattern: stan (cont
+cont=11, acum=11, c=3033099
+881 stan (cont 3340.19
+pattern: urkmenista
+cont=11, acum=11, c=3033110
+882 urkmenista 3344.68
+pattern: halifa ABD
+cont=5, acum=5, c=3033115
+883 halifa ABD 3348.96
+pattern:  O R E I G
+cont=1, acum=1, c=3033116
+884  O R E I G 3353.66
+pattern: h GOODALE 
+cont=1, acum=1, c=3033117
+885 h GOODALE  3361.13
+pattern: , Hezekiah
+cont=2, acum=2, c=3033119
+886 , Hezekiah 3366.18
+pattern: , Rein Cap
+cont=1, acum=1, c=3033120
+887 , Rein Cap 3370.56
+pattern: presentati
+cont=9, acum=9, c=3033129
+888 presentati 3375.31
+pattern: E R N M E 
+cont=1, acum=1, c=3033130
+889 E R N M E  3379.85
+pattern: Iran---NDE
+cont=8, acum=8, c=3033138
+890 Iran---NDE 3384.14
+pattern: Technologi
+cont=18, acum=18, c=3033156
+891 Technologi 3390.82
+pattern: f Agricult
+cont=159, acum=159, c=3033315
+892 f Agricult 3395.53
+pattern:  Toska, Ig
+cont=3, acum=3, c=3033318
+893  Toska, Ig 3399.9
+pattern: Cape Verde
+cont=9, acum=9, c=3033327
+894 Cape Verde 3407.15
+pattern: Security &
+cont=34, acum=34, c=3033361
+895 Security & 3413.45
+pattern:  Environme
+cont=328, acum=328, c=3033689
+896  Environme 3418.28
+pattern: Seychelles
+cont=14, acum=14, c=3033703
+897 Seychelles 3425.1
+pattern: Paramount 
+cont=2, acum=2, c=3033705
+898 Paramount  3429.39
+pattern: and (conti
+cont=21, acum=21, c=3033726
+899 and (conti 3433.82
+pattern: n Republic
+cont=6, acum=6, c=3033732
+900 n Republic 3439.78
+pattern: ..........
+cont=14893, acum=14893, c=3048625
+901 .......... 3446.19
+pattern: General ..
+cont=26, acum=26, c=3048651
+902 General .. 3451.17
+pattern: Republic (
+cont=4, acum=4, c=3048655
+903 Republic ( 3457.67
+pattern:  Min. of T
+cont=970, acum=970, c=3049625
+904  Min. of T 3464.06
+pattern:  Valarezo 
+cont=7, acum=7, c=3049632
+905  Valarezo  3467.93
+pattern: ..........
+cont=14893, acum=14893, c=3064525
+906 .......... 3471.63
+pattern:  (F) SOK A
+cont=5, acum=5, c=3064530
+907  (F) SOK A 3475.5
+pattern: ics Dir. G
+cont=1, acum=1, c=3064531
+908 ics Dir. G 3479.38
+pattern: ..........
+cont=14893, acum=14893, c=3079424
+909 .......... 3483.29
+pattern:  Ivan Gora
+cont=1, acum=1, c=3079425
+910  Ivan Gora 3487.04
+pattern: nce to the
+cont=1, acum=1, c=3079426
+911 nce to the 3490.8
+pattern: VELO Perma
+cont=1, acum=1, c=3079427
+912 VELO Perma 3494.6
+pattern: HUN (CPP) 
+cont=1, acum=1, c=3079428
+913 HUN (CPP)  3498.36
+pattern: . of Defen
+cont=272, acum=272, c=3079700
+914 . of Defen 3502.12
+pattern: ustria (co
+cont=1, acum=1, c=3079701
+915 ustria (co 3505.92
+pattern: (continued
+cont=95, acum=95, c=3079796
+916 (continued 3509.75
+pattern: ..........
+cont=14893, acum=14893, c=3094689
+917 .......... 3513.57
+pattern: l Yuan ...
+cont=2, acum=2, c=3094691
+918 l Yuan ... 3517.35
+pattern: ..........
+cont=14893, acum=14893, c=3109584
+919 .......... 3521.15
+pattern: sidency Ch
+cont=2, acum=2, c=3109586
+920 sidency Ch 3524.93
+pattern: Bangladesh
+cont=14, acum=14, c=3109600
+921 Bangladesh 3528.73
+pattern:  Gonsalves
+cont=10, acum=10, c=3109610
+922  Gonsalves 3532.49
+pattern: , Bank of 
+cont=64, acum=64, c=3109674
+923 , Bank of  3536.25
+pattern: ..........
+cont=14893, acum=14893, c=3124567
+924 .......... 3540.04
+pattern: rs Min. of
+cont=341, acum=341, c=3124908
+925 rs Min. of 3543.81
+pattern: z, Gen. Ju
+cont=1, acum=1, c=3124909
+926 z, Gen. Ju 3547.69
+pattern: , Chadli B
+cont=2, acum=2, c=3124911
+927 , Chadli B 3551.5
+pattern: sador to t
+cont=12, acum=12, c=3124923
+928 sador to t 3555.28
+pattern: ULTAN bin 
+cont=12, acum=12, c=3124935
+929 ULTAN bin  3559.03
+pattern: ..........
+cont=14893, acum=14893, c=3139828
+930 .......... 3562.79
+pattern:  Bjarne Ha
+cont=2, acum=2, c=3139830
+931  Bjarne Ha 3566.58
+pattern: UBE Moggie
+cont=1, acum=1, c=3139831
+932 UBE Moggie 3570.34
+pattern:  US Perman
+cont=42, acum=42, c=3139873
+933  US Perman 3574.11
+pattern: f Fisherie
+cont=43, acum=43, c=3139916
+934 f Fisherie 3577.84
+pattern: D I R E C 
+cont=1, acum=1, c=3139917
+935 D I R E C  3581.66
+pattern: Madagascar
+cont=19, acum=19, c=3139936
+936 Madagascar 3585.38
+pattern: audi Arabi
+cont=12, acum=12, c=3139948
+937 audi Arabi 3589.14
+pattern: n, Jaime S
+cont=1, acum=1, c=3139949
+938 n, Jaime S 3592.76
+pattern: ..........
+cont=14893, acum=14893, c=3154842
+939 .......... 3596.44
+pattern: Madagascar
+cont=19, acum=19, c=3154861
+940 Madagascar 3600.22
+pattern: nezuela (c
+cont=2, acum=2, c=3154863
+941 nezuela (c 3603.98
+pattern: Denise YUE
+cont=3, acum=3, c=3154866
+942 Denise YUE 3607.79
+pattern: ration of 
+cont=13, acum=13, c=3154879
+943 ration of  3611.55
+pattern: rea (conti
+cont=2, acum=2, c=3154881
+944 rea (conti 3615.33
+pattern: in. Withou
+cont=77, acum=77, c=3154958
+945 in. Withou 3619.16
+pattern: ..........
+cont=14893, acum=14893, c=3169851
+946 .......... 3622.93
+pattern: resentativ
+cont=9, acum=9, c=3169860
+947 resentativ 3626.71
+pattern: Costa Rica
+cont=10, acum=10, c=3169870
+948 Costa Rica 3630.46
+pattern: . Tevita V
+cont=1, acum=1, c=3169871
+949 . Tevita V 3634.08
+pattern: 'ae PAK So
+cont=1, acum=1, c=3169872
+950 'ae PAK So 3637.86
+pattern: zgul TASHP
+cont=1, acum=1, c=3169873
+951 zgul TASHP 3641.75
+pattern: (continued
+cont=95, acum=95, c=3169968
+952 (continued 3645.52
+pattern: ote dâ�
+cont=0, acum=0, c=3169968
+953 ote dâ� 3649.39
+pattern: ce Min. of
+cont=207, acum=207, c=3170175
+954 ce Min. of 3653.19
+pattern: ..........
+cont=14893, acum=14893, c=3185068
+955 .......... 3656.84
+pattern: nt Apparat
+cont=1, acum=1, c=3185069
+956 nt Apparat 3660.58
+pattern: MA Juvenal
+cont=1, acum=1, c=3185070
+957 MA Juvenal 3664.37
+pattern: F F O R E 
+cont=1, acum=1, c=3185071
+958 F F O R E  3668.16
+pattern: ks Attorne
+cont=3, acum=3, c=3185074
+959 ks Attorne 3671.93
+pattern: ..........
+cont=14893, acum=14893, c=3199967
+960 .......... 3675.75
+pattern: ..........
+cont=14893, acum=14893, c=3214860
+961 .......... 3679.33
+pattern: ASSANAL Bo
+cont=7, acum=7, c=3214867
+962 ASSANAL Bo 3683.12
+pattern: Guyana (co
+cont=4, acum=4, c=3214871
+963 Guyana (co 3686.82
+pattern: 2006-01 Su
+cont=3, acum=3, c=3214874
+964 2006-01 Su 3690.62
+pattern: n (continu
+cont=40, acum=40, c=3214914
+965 n (continu 3694.35
+pattern: adarevic, 
+cont=1, acum=1, c=3214915
+966 adarevic,  3698.08
+pattern: fghanistan
+cont=3, acum=3, c=3214918
+967 fghanistan 3701.88
+pattern: E S O F A 
+cont=1, acum=1, c=3214919
+968 E S O F A  3705.7
+pattern: in. of Agr
+cont=192, acum=192, c=3215111
+969 in. of Agr 3709.46
+pattern:  & the Fam
+cont=3, acum=3, c=3215114
+970  & the Fam 3713.24
+pattern: stria (con
+cont=1, acum=1, c=3215115
+971 stria (con 3716.98
+pattern: MSEVICS Ma
+cont=1, acum=1, c=3215116
+972 MSEVICS Ma 3720.77
+pattern:  York ....
+cont=8, acum=8, c=3215124
+973  York .... 3724.58
+pattern:  Kin-chung
+cont=2, acum=2, c=3215126
+974  Kin-chung 3728.37
+pattern: a (continu
+cont=141, acum=141, c=3215267
+975 a (continu 3732.18
+pattern:  al-MADADH
+cont=1, acum=1, c=3215268
+976  al-MADADH 3735.95
+pattern: me Affairs
+cont=48, acum=48, c=3215316
+977 me Affairs 3739.73
+pattern: Guinea-Bis
+cont=10, acum=10, c=3215326
+978 Guinea-Bis 3743.54
+pattern: ..........
+cont=14893, acum=14893, c=3230219
+979 .......... 3747.32
+pattern: NG (CPP) T
+cont=1, acum=1, c=3230220
+980 NG (CPP) T 3750.87
+pattern: ... Paul B
+cont=23, acum=23, c=3230243
+981 ... Paul B 3754.59
+pattern: ..........
+cont=14893, acum=14893, c=3245136
+982 .......... 3758.36
+pattern: Wilfredo S
+cont=1, acum=1, c=3245137
+983 Wilfredo S 3762.14
+pattern: auritius (
+cont=3, acum=3, c=3245140
+984 auritius ( 3765.9
+pattern: ..........
+cont=14893, acum=14893, c=3260033
+985 .......... 3769.61
+pattern:  Legislatu
+cont=1, acum=1, c=3260034
+986  Legislatu 3773.33
+pattern:  of Enviro
+cont=197, acum=197, c=3260231
+987  of Enviro 3777.1
+pattern: e US Perma
+cont=42, acum=42, c=3260273
+988 e US Perma 3780.84
+pattern: and (conti
+cont=21, acum=21, c=3260294
+989 and (conti 3784.65
+pattern: ..........
+cont=14893, acum=14893, c=3275187
+990 .......... 3788.44
+pattern: ..........
+cont=14893, acum=14893, c=3290080
+991 .......... 3792.19
+pattern: ico 4 Rudd
+cont=1, acum=1, c=3290081
+992 ico 4 Rudd 3795.98
+pattern: ..........
+cont=14893, acum=14893, c=3304974
+993 .......... 3799.76
+pattern: ead of Sta
+cont=6, acum=6, c=3304980
+994 ead of Sta 3803.52
+pattern: adou Sall,
+cont=3, acum=3, c=3304983
+995 adou Sall, 3807.33
+pattern: ba (contin
+cont=2, acum=2, c=3304985
+996 ba (contin 3811.09
+pattern: netMembers
+cont=1, acum=1, c=3304986
+997 netMembers 3814.94
+pattern:  Iyad bin 
+cont=3, acum=3, c=3304989
+998  Iyad bin  3818.71
+pattern: ..........
+cont=14893, acum=14893, c=3319882
+999 .......... 3822.46
+3822.46
+3319882
+0.00115138 microS
