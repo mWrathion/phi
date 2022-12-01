@@ -17,7 +17,10 @@ typedef struct {
 
 	HybridSelfIndex *index;
 
-	uchar** patt;			// The patterns to search
+	d_data device_data;
+
+	uchar* text;
+	uchar** patterns;			// The patterns to search in CPU
 } ParProg;
 
 int main(int argc, char *argv[]){
@@ -25,7 +28,7 @@ int main(int argc, char *argv[]){
 
 	if(argc != 6){
 		cout << "ERROR with parameters!! " << endl;
-		cout << "build usage requires 3 parameters:" << endl;
+		cout << "build usage requires 5 parameters:" << endl;
 		cout << "<patterns file> <pattern length m> <pattern quantity> <load prefixStore> <# threads>" << endl;
 		exit(1);
 	}
@@ -41,9 +44,13 @@ int main(int argc, char *argv[]){
 	par -> nThreads = atoi(argv[5]);
 
 	par -> index = new HybridSelfIndex(par -> prefixStore);
-    
 	par -> n = par -> index -> n;
 	par -> M = par -> index -> M;
-	
+
+	par -> patterns = loadPatterns(par->pattFile, par->m, par->nPatt);
+	par -> device_data = par -> index -> dataToGPU(par -> patterns, par -> m, par -> nPatt);
+
+	par -> index -> locate(par -> patterns, par -> m, par -> nPatt, par -> nThreads, par -> device_data);
+
     return 0;
 }

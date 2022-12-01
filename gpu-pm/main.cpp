@@ -21,7 +21,7 @@ int main(){
 	string line;
 	ifstream input ("patterns.txt");
 	int i = 0, j = 0;
-	int m = 10;
+	int m = 2;
 	while(input.good() && i < 1000){
 		getline(input, line);
 		pattern[i] = new unsigned char[m+1];

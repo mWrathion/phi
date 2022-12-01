@@ -1,6 +1,7 @@
 #include "kernel.cuh"
 
-__global__ void kernel_call(unsigned char *text, unsigned char *pattern, int *occs, int size, int m, int *cont){
+__global__ void kernel_call(unsigned char *text, unsigned char *pattern, 
+				int *occs, int size, int m, int *cont){
 	int tid = blockIdx.x * blockDim.x + threadIdx.x;
 	bool flag = true;
 	int c = 0;

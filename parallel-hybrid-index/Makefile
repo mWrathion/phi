@@ -1,6 +1,5 @@
-#bin/bash
-SDSL_DIR=/home/wrathiontbp/Parallel-Locate/sdsl-lite
-RMQ_DIR=/home/wrathiontbp/Parallel-Locate/rmq
+SDSL_DIR=/home/wrathiontbp/magister
+RMQ_DIR=/home/wrathiontbp/magister/rmq
 
 CPP=g++
 CPPFLAGS=-std=c++11 -O3 -DNDEBUG -march=native -fopenmp
@@ -29,6 +28,7 @@ build_binary:
 	$(CPP) $(CPPFLAGS) $(INCLUDES) $(BUILD_OBJECTS) -o build $(LIB)
 
 locate_objects:
+	$(NVCC) -c src/locate/src/*.cu
 	$(CPP) $(CPPFLAGS) $(INCLUDES) $(LOCATE)
 	mv *.o bins/locate
 
@@ -37,7 +37,7 @@ build_objects:
 	mv *.o bins/build
 
 load_objects:
-	$(NVCC) -c src/load/src/prepare_gpu.cu
+	$(NVCC) -c src/load/src/*.cu
 	$(CPP) $(CPPFLAGS) $(INCLUDES) $(LOAD)
 	mv *.o bins/load
 

@@ -113,21 +113,20 @@ void HybridSelfIndex::loadStructure(){
 		sizeDS += rmqY->getSize();
 	}
 
-	cout << "rmq done\n";
-
     strcpy(fileName, "");
 	strcpy(fileName, dirStore);
 	strcat(fileName, "spp.hsi");
 	ifstream is2(fileName);
     stringstream buffer;
     buffer << is2.rdbuf();
-	string s = buffer.str();
+	const string s = buffer.str();
 	int size = s.size();
-   	fTxt = (uchar *) s.c_str();
+	fTxt = (uchar*) malloc(size*sizeof(uchar));
+	for(int i = 0; i < size; ++i){
+		fTxt[i] = (uchar) s[i];
+	}
 
 	sizeDS += size*sizeof(uchar);
-
-	cout << "ftx done\n";
 
 	if (SHOW_SIZE || TRACE){
 		cout << "BreakDown --size of the structures:" << endl;

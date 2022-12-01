@@ -4,6 +4,7 @@
 #include <omp.h>
 #include <sdsl/suffix_arrays.hpp>
 #include <RMQRMM64.h>
+#include "kernels.cuh"
 
 using namespace sdsl;
 using namespace std;
@@ -18,6 +19,7 @@ using namespace rmqrmm;
 #define N_LOOKUP 128	// length of the Lookup Table for X. (the final length will be in N_LOOKUP/2 to N_LOOKUP)
 #define N_SCAN 256		// when a range of X contains more than N_SCAN we perform a binary search in that segment; otherwise we only SCAN it to find the predecessor
 
+uchar** loadPatterns(char pattFile[300], uint m, uint nPatt);
 
 class HybridSelfIndex 
 {
@@ -107,6 +109,8 @@ class HybridSelfIndex
         void locateLargeM_b(uchar *pat, uint m, ulong *nOcc, ulong **occ);
 
         void extract(ulong sp, ulong len, uchar *A);
+
+        
     
     public:
     
@@ -118,7 +122,7 @@ class HybridSelfIndex
 
         ulong sizeDS;		// size in bytes for the complete data structure
 
-        uchar fSymb;		// mismatch symbol
+        uchar fSymb;		// mi)smatch symbol
         uchar *Txt;			// original text of length n (used in construction time)
         ulong n;			// length of the concatenated text T = d_1+d_2+ .. + d_D
 
@@ -144,8 +148,9 @@ class HybridSelfIndex
         // load the structure from dirSaveLoad
         HybridSelfIndex(char dirSaveLoad[300]);
 
+
         // writes in *nOcc the number of occurrences of the pattern *pat[0..m-1] allocating these in **occ.
-        void locate(uchar *pat, uint m, ulong *nOcc, ulong **occ);
+        void locate(uchar **patterns, uint m, uint nPatts, uint nThreads, d_data device);
 
         // extracts the 'len' characters that represent the original segment T[sp.. sp+len-1] and allocates these into A[0...len-1]
         void extract(ulong sp, ulong len, uchar **A);
@@ -157,9 +162,15 @@ class HybridSelfIndex
         void saveStructure();
         void loadStructure();
 
+        bool* bitVectorToArray();
+
+        d_data dataToGPU(uchar** patterns, uint m, uint nPatt);
+
         virtual ~HybridSelfIndex();
 
         void show();
 };
+
+
 
 #endif // PHI_HPP
