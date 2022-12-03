@@ -1,1000 +1,1000 @@
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
-de
-#i
-in
-nc
-cl
-lu
-ud
+ow(RAW3215
+          
+pe = PACKE
+ pci_dev *
+ the NCR53
+goto out_f
+r & (1 << 
+er =	THIS_
+clk - cqr-
+	return 0;
+lse4(&qbh)
+_RING_SIZE
+e_use(gus-
+8e420004, 
+ord handle
+tatic char
+     dwSta
+x00,0x00 }
+ Maxim Kra
+	return 1;
+00,0x00,0x
+owngraded 
+upt Flag *
+		wval &= 
+ hosts[i])
+caps->hcc_
+rrent->sui
+o command 
+ in the CT
+v_priv = N
+_82586_RES
+0_V1_Comma
+t quality 
+f (Is_unde
+p->BlkStat
+or FITNESS
+scsi_scan_
+p->info2 =
+e.g. DMA m
+bd_dev.id.
+4,152,211,
+	__u16	stg
+          
+33,32,224,
+SP_CONFIG2
+D_PADBYTES
+11000000 *
+gned int m
+;	/* volum
+DUMP_ENTRY
+  connecte
+S_FRM_TO(0
+ restore t
+       do 
+Bytes per 
+atic int g
+e(&efi_rtc
+e HVSI_WAI
+40IrqInit(
+16,    816
+			    "Se
+ unless so
+struct smt
+ce_node *d
+ support (
+->hcpriv =
+(!(walk_st
+c_fill_fif
+_ptr_write
+ueue & COM
+dispatch")
+bp = ebx <
+infifo[qin
+_DO_RESTAR
+snd_kcontr
+lkdev_dequ
+eturn err;
+NONE	0x000
+ain the ab
+_card_devi
+uct reques
+       0x1
+r, "%04X "
+x54 + 2*ch
+turn SIGIL
+pci quirks
+ = (void *
+	if(vwrq->
+	seq_putc(
+f (cp->vlg
+ue to an I
+static voi
+TE_FLASH_R
+ long ofs;
+diva_didd_
+				 (2 * 
+ * our own
+struct lis
+id *)emerg
+l statisti
+pu_to_le32
+00_CS0_PHY
+ld be clea
+__le32 spe
+cycle / 10
+Length;	/*
+printk("hp
+GENCFG_FOR
+ CPIA_MODU
+cmd_free(h
+fdef CONFI
+d at begin
+y *policy,
+connect[0]
+it_p(epic_
+==========
+042, 0x120
+if (arr) {
+ *)CIA_IOC
+ible(500);
+ case 1280
+SB2     	D
+of max_fre
+        } 
+egments an
+se_irq_and
+	return 0;
+, /* 00000
+ own the n
+command(ps
+        *t
+ = mem_sta
+unsigned i
+sb, S_IFRE
+->first_sl
+m_operands
+ER, 0xff);
+		return i
+ << shift)
+u8	res8[92
+tf = to_us
+d_azf3328_
+q->private
+return -EI
+   unsigne
+, 0x244200
+x15,0x83,0
+ BT878_AFT
+mn += prin
+				linkwa
+st_fd = fd
+", 0x800);
+ low, high
+st that.  
+ame, "ESS 
+ure_sizes;
+ASK, ioadd
+rrupt(isac
+== 38400 &
+	schedule(
+esize = SG
+       if(
+sole_info.
+dasd_era_t
+btv->s_loc
+utl(0x0008
+,0xFF,0xDD
+chip->ampl
+ock_irqsav
+ttle-endia
+0x00000000
+ile ((char
+hp_slot++)
+dr + bh_of
+		} else {
+the head b
+ss convers
+ unsigned 
+**********
+case AX25_
+fromiovec(
+EXCEPTION)
+rt snd_emu
+		if (e > 
+G_BUS_FREQ
+RINTK(form
+	val[5] = 
+nux_dma_ta
+gned short
+f( &cError
+pyright st
+s from SCS
+	{ 0,   0}
+		continue
+  *obj_des
+ indicator
+/*--------
+int32_stru
+ly = PF_NE
+enable = T
+O_ID_MISC4
+o.buffer  
+fine CSR4_
+	int contr
+				      
+				dput(p
+(cmdSyntax
+64 bytes) 
+devinfo.ch
+write_c0_s
+TX and RX 
+return -EI
+[1] = comm
+e bugs tha
+Event and 
+eRegionInf
+_FPGA_RST)
+ FCP_RSP_L
+t.hard.off
+ude <asm/s
+rta[IFA_LO
+nt->mm->st
+          
+if (!backi
+PE before 
+_rx_cmd_sp
+			epcm->v
+mp.dma2 = 
+al_irq_dis
+ last_task
+ int pccar
+			disable
+l: Again t
+BOXED] = {
+d long fla
+x_blocks; 
+k before c
+ynamically
+3f, 0xc0, 
+intk("FAIL
+ne ELSA_IS
+(byte*)xda
+TY | HFSPL
+ar * name;
+75,33,144,
+I/O Proces
+10-??   An
+gdth_ioctl
+/* Looks l
+cp->nr_lin
+          
+6			cpcmd;
+ser(arg1, 
+pe_stack_p
+ * us agai
+k = (kcont
+ect to hav
+          
+is_id		= -
+_NAME_SIZE
+_device(pc
+define PI_
+	e1000_val
+ad all fou
+smbus")) {
+_t *memhdr
+onStatus4"
+         /
+ommand[6] 
+et = count
+ings(adapt
+t DeviceCt
+return(0);
+			info->s
+0x05,0x2c,
+x07,0x26,0
+ for some 
+		goto fin
+shp->irq =
+, M_DEVBUF
+->flags &=
+channel = 
+ault Manag
+ & (map_ba
+func(struc
+h, dcysusv
+	int i, j;
+r32(bp, B4
+[bytes++] 
+handler fo
+lude <stdi
+C_CORR_D(c
+	{0, 0, 0,
+	isec->sid
+ = BT_CONN
+		  of scr
+----------
+ PORT init
+efine BTFI
+imeo = jif
+ag_seq == 
+&adapter->
+,0x3e,0x40
+ections.h>
+p_status(b
+e_poke_dw(
+e_val[32];
+kt *arp = 
+ETFORMAT |
+TATUS:	sc_
+nfo_t *uin
+truct gscd
+TING TO US
+long Proce
+define IS_
+ (&acp->fr
+rage Contr
+A5_INTR_OF
+   ? IPSTS
+(buffer, "
+static voi
+_routing2[
+swval = &a
+ 2) && (ev
+uffer += c
+4f, ch, 0)
+ you can r
+f_rx(skb);
+EG address
+oup, int f
+	if (ret) 
+t e1000_de
+		return 0
+    = PLL_
+x_hashtbl(
+ata = data
+SCSI Bus R
+8,0x40,0x0
+scellaneou
+ TRUE, TRU
+	RH_CLEAN,
+ng defines
+ICMD_PERRR
+	unsigned 
+AY9_done:	
+      = 0;
+, 0x2c4200
+te->imask 
+le) / 1000
+				break;
+0070731,0x
+>fld_fwmar
+ {16, 0xd4
+{0x02,0xa5
+DRV_MIDI_M
+uf *dmabuf
+'0' || c =
+				break;
+nt < currS
+nk_t *bt3c
+    tonga 
+else /* KI
+hmem addre
+s since in
+				/* Fir
+l(&info->l
+rr : -EIO;
+          
+_fail_post
+ge_port *p
+V_PED_EVEN
+ures & AHD
+l(KERN_DEB
+nsigned lo
+2 (bufp >>
+d	recent; 
+00_ASIC2_O
+buf_alloc 
+       bla
+uct sockad
+,0x86,0xE0
+ = task->s
+registers 
+ilq *untag
+/* 0000011
+rec->tag =
+,0x000037c
+f), (v) >>
+id_table_c
+	int curre
+ntf(stderr
+tk(KERN_DE
+(Scsi_Cmnd
+g & ~TX39_
+    __FUNC
+DUAL_SGPTR
+   if ((op
+ARD_ACTIVE
+paranoia_c
+0x08,0x04,
+int record
+ direction
+= vn->vn_v
+  nent = 0
+ffer is gi
+	/* If we 
+at=%02x is
+ by Donald
+r_info inf
+i_dev *pde
+r = -EINVA
+/* 000 000
+(va, large
+ecause we 
+ { 127 }; 
+ (error < 
+6,17,3,131
+ndef NO_FO
+ count = 0
+ahd, scbid
+0, 0x00, 0
+ion alloca
+TY or FITN
+ -1, best_
+settings *
+          
+l =		ftdi_
+OPT_NVRAM_
+ale window
+vice_state
+M(h)		(TSU
+0, /* 0000
+efine SYS_
+read(ice, 
+linux/slab
+000_FLA   
+->toc[1].f
+ct net_dev
+addr + IO_
+revious\n"
+able_devic
+size      
+          
+50 dwmw2 E
+better one
+	/* Bitmap
+		ahc = NU
+CDS_TRAY_O
+ow_exclusi
+odule_para
+p_read(&sb
+val &= ~0x
+put reg */
+*   Char 1
+e_work(&po
+v_data = N
+dev_priv(d
+s & USB_EN
+SAVE_CODE_
+tc_time = 
+Offset 10 
+retcode = 
+ne ASC_QAD
+FM				(1<<
+for a give
+.this_id		
+3a,0,{0xe9
+CI_VENDOR_
+ck, flags)
+ost number
+1_FIELD(ip
+##########
+ & 0x3fffc
+igned char
+A7146_EXCL
+stribute i
+nce)->dma_
+0x92e24e20
+data\n", D
+_PPCIPL2		
+used for d
+kb = arp_c
+p3map_sem[
+(hit all b
+ce	= lh7a4
+fine FB_AC
+py of the 
+r	clock_di
+rupt. Thus
+fine BA1_O
+mand phase
+"debuglib.
+t = server
+tifier apm
+pth = 1;		
+	data->blo
+			if (res
+_DiskType 
+cs_get_mas
+tatic	void
+param(prot
+	pSMB->Fla
+>channel, 
+	driver_na
+d) == F_SE
+ter_netdev
+ your opti
+nk->conf.P
+cacheline_
+ral Public
+is the rou
+linux/slab
+cketpair =
+				return
+ 0x08, 0x6
+	void *ptr
+x24c60001,
+ithout wai
+entation f
+tty->termi
+					spin_
+ ext_msg.w
+define HAR
+MC1 is onl
+		put_unus
+   = strip
+int ioaddr
+.search_ke
+signed cha
+32,133,132
+				} else
+ int *, in
+HDLC_MAX_M
+case MT_5M
+kmap(bprm-
+	return rv
+, fdc_busy
+ile, -err)
+, &end_off
+N_ERR "Vor
+ine DI_SOF
+x22,0x48,0
+c427e04, 0
+	if (reg <
+f (next, s
+e sanity c
+or_key = 0
+st[i].irq;
+0EFB402229
+	result = 
+ridge_misc
+ne ITMaxLp
+801_t *chi
+----------
+rk3_open(s
+ptr != NUL
+info() str
+SM_RING_BU
+1550_clean
+OADER_DATA
+et_drvdata
+f /* _LINU
+V_ID_82543
+it = dev->
+DF_ALL_MAS
+ them anym
+ bottom ha
+,0x00,0x00
+	return -E
+tx_ring[i]
+wakeup = 0
+_width(run
+x/signal.h
+atablklen;
+high >> 20
+n & 0xF0);
+          
+			} else 
+ve (list, 
+removeseg:
+if (tmp)  
+ed int vid
+icy = flag
+uct NCR538
+  void *Qu
+0x00000000
+w interrup
+----------
+ead_total 
+ameport->p
+ 0x040B4  
+	u32 stat;
+ STATISTIC
+E33G_IDCFR
+* expect 8
+		if( *uma
+0xb0a00000
+nt snd_gf1
+VICE(SEALE
+net_device
+port7_csrs
+se 5: /* F
+erface_att
+	     cur;
+r histo[25
+RM(mem_loc
+trl & ~E10
+      } el
+			return 
+ IEEE754_C
+clude <lin
+	u64 temp_
+ffer_state
+o || !buf)
+e	T1F_OEMP
+----------
+CARDS] = S
+ADB_EXT_KE
+			node = 
+_retry = F
+ * AML_OPR
+ount, unsi
+NFIG_NET_E
+			port1, 
+ned char n
+tart), 409
+entSCCB = 
+* @param b
+, bplpt[i]
+ Yoichi Yu
+mmand, SMB
+d it to th
+ attention
+			ep = &d
+ skb->len;
+efine ABOR
+II link st
+      stru
+asd_device
+urn -EINVA
+published 
+data.ainte
+onfig_byte
+v->loop_ir
+r_margin =
+_t TxIntrE
+NK_FAIL_ST
+f, d->bufp
+ls_min =		
+ine DSR_EO
+f (!try_mo
+2000_sched
+f (!multip
+ive: Set s
+the active
+ed char in
+ad an inva
+	u16		type
+	next = el
+		cmd.code
+IO_DATA_PM
+DMA enable
+_TYPE_CAPT
+nlmsg_type
+ASUS_CTRL_
+s life ver
+r_options 
+  return (
+  * the Wi
+(bta->sour
+II_BMCR_IS
+o_inputs  
+ char fcva
+ILLED_BY_L
+we've foun
+truct page
+40,84,33,1
+	AmdIrqOff
+	ecc ^= da
+ += strlen
+ st0_ptr);
+n = TCA_U3
+if you're 
+ APM_USER_
+rw_cmd = M
+	kfree(nam
+          
+logies, In
+add(vortex
+et_allmult
+len -= mtd
+          
+&ap->cur_r
+lisions +=
+>options =
+ by Takash
+SP_SRESET_
+	/* 'info'
+ruct class
+00e_irq(fo
+7,0x80,0x2
+fine TW_IS
+ econet_hw
+x00,  0x4e
+TEREO	  0x
+ror code v
+ef NO_IO_S
+	return 0;
+ the adapt
+ program c
+actionSeqN
+ble Ethern
+ (entry !=
+lho de Mel
+y (buffer,
+k *sk = so
+ & FMODE_R
+time, coun
+      (1<<
+if (!entry
+fine DTCR 
+_ISR), NUL
+    except
+byte @val.
+011_RXIS),
+t	  		0x00
+ormal_oper
+h_busid(bu
+inux/mtd/n
+r = -ENOME
+ev_err(i2c
+/* 0011100
+Unregister
+ ~AHC_ABOR
+om_present
+0;	// MAX 
+"g450_pll.
+e <string.
+UND_MIXER_
+sense data
+subsystem 
+c_smbus_da
+		vendor_s
+his softwa
+_buffers[d
+lock_irqre
+e[*frameUs
+* END_DESC
+6_ifa_put(
+io mixer		
+e_trace_ex
+ %d status
+   0xbe,0x
+Bit(Word,e
+  // range
+STATUS	0x6
+         E
+ady(this);
+&regs->Loc
+ne HW_ID_D
+be others)
+if(scsicmd
+#define	I5
+clude <lin
+return ret
+sk = 0x10;
+		if (d < 
+t) | 0x80;
+elf to dou
+<linux/del
+	new_statu
+ == b) i++
+nformation
+			DECODEI
+		err = -E
+ true : fa
+ith a leng
+int ep_in;
+  packet *
+v, param, 
+ed in rest
+int32_t ip
+	return 1;
+struct hos
+r in S[h];
+annel = Co
+ndef CHIP_
+0x00, 0x00
+mespec tst
+ext write 
+ now_conne
+scbs(struc
+way, we ke
+e %d>", e-
+ine SMB_HA
+ault behav
+ge long sy
+4    yes (
+x0d, 0x80,
+		if (res)
+ while (0)
+ int tea57
+	case PRID
+ev->addr_l
+					idx++
+d commands
+temp = sd-
+dInPort( f
+request *c
+==========
+r*        
+ * Derived
+   if((hw-
+onger sche
+X WATCHDOG
+f (freq > 
+eaf(u_int8
+ch6_sata_r
+,255,64,20
+d_addr *bp
+lude <linu
+          
+rl_reg, io
+  snd_ca01
+	/* Enable
+return -1;
+G(("bmac: 
+, 0x00, 0x
+0xe8,0x84,
+ock, flags
+x3c, /* 00
+OMBASE		DC
+/* 0000110
+inexact */
+ed != SPEE
+ip Blundel
+pause mode
+041/DC2114
+cd->regs =
+dev] = xpo
+nt away? *
+	int j = i
+	if (!butt
+h of spewe
+h->outreq_
++ HP_DATAP
+ose)(struc
+(&par->riv
+/* Define 
+h DPCM-USB
+= mtd->pri
+(iop_base)
+x00,0x00,0
+ble | HDSP
+ NEGLIGENC
+e(bridge->
+dphone_irq
+CIBIOS_FUN
+PROCESS__S
+"can't set
+->io_ctx->
+*++scan ==
+DRAIN		   
+sk_v_sge :
+d_dentry: 
+nce factor
+PROM start
+eeze_cnt);
+ just igno
+x9d,0xfb,0
+read devic
+#include <
+fdiv_i,  _
+				break;
+          
+= no_eras;
+						brea
+gned long 
+ion       
+0,0x00,0x4
+          
+FINE_ALTER
+annel = 11
+fragment i
+.num_bulk_
+#define AM
+eoc, heads
+ *) __acpi
+e <asm/tim
+ are set b
+->ccwlock)
+and_exit_d
+ize, __u8 
+nInfo *tco
+icense as 
+ine cpu_to
+PRINTK("fe
+c_file_wri
+h -- VLSI 
+			tmp_buf
+p->control
+ *	Set UDM
+me_init (v
+ char Cont
+			    FB_
+       - O
+ADT_DESCRI
+    0x40 /
+          
+AMI_CT_ULA
+no Procida
+%lu ms new
+			if (pri
+flush_amd6
+eters *ofd
+ irq_level
+tgoing mes
+Hz: return
+nsigned uI
+N_INFO "%s
+ + (UINT64
+write to t
+x80	/* FIF
+38,255,255
+ted so tha
+ "max1617.
+tx_timer);
+if (type =
+c_position
+ words - n
+ of AD1848
+ETLINK_XFR
+return dep
+0x00, 0x08
+_IWUSR, dm
+ttach_obje
+{0xce,0x4f
+ID_AHA_395
+    if (os
+460, 0x956
+		return N
+ unit fail
+his may ha
+0L_STATE_W
+agiclist w
+7_MasterSt
+apostol@cs
+	58,181,12
+16 channel
+         /
+f_num	= AR
+	unsigned 
+abusb_t) f
+	if (! ak)
+cb.pf_cnt 
+close(infi
+nslave it!
+						if (
+sor = fz->
+define AGP
+j, tmport)
+i_name = E
+edge of VS
+on, dpriv-
+ * crossin
+28,131,151
+	goto exit
+d avtab_ha
+.size = 0;
+ <linux/in
+ (len < 0)
+mit_queue)
+8,0x1c,0x8
+8:  1-2 (m
+ted write 
+							rep
+%s: PCI bu
+ *   4) Sy
+efine STS(
+ Clear fla
+          
+ 00   000 
+					break
+	int chang
+,0x7B,0xDE
+ * cpqhp_s
+e (!(NCR53
+,131,92,21
+ struct fi
+G_FLOW, "d
+Chip 2000 
+ith this p
+ncy slight
+ av7110 ) 
+>numports)
+			if (sk)
+static int
+udio_relea
+==========
+ 0xb0, 0x5

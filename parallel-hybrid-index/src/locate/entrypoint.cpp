@@ -15,7 +15,7 @@ void HybridSelfIndex::locate(uchar **patterns, uint m, uint nPatts, uint nThread
         nOccs += nOcc;
         cout << nOcc << "  " << t <<endl;
     }
-    cout << "avg_time = " << tt*1000.0f << " microS" << endl;
-    cout << "tt = " << (tt*1000.f)/(nOccs*1.0f) << " microS" << endl; 
+    cout << "avg_time = " << tt*1000000.0f << " microS" << endl;
+    cout << "tt = " << (tt*1000000.f)/(nOccs/nPatts*1.0f) << " microS" << endl; 
     cout << "nOccs = " << nOccs << endl;
 }

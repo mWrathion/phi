@@ -83,8 +83,10 @@ __global__ void getPrimaryOccurrences(u_char* text, u_int size, u_char* pattern,
 			}
 			c++;
 		}
-		if (flag == 1) {   
-            u_long pr;
+		if (flag == 1) {  
+			long id = atomicAdd(nOcc, 1);
+ 
+           /* u_long pr;
             u_int dx;
             long id = -1;
             if(isPrimary(tid, m, &pr, &dx,nSamP, lgN, POT_GC, SGCPFT, lgPFT, PhraFT)){
@@ -102,7 +104,7 @@ __global__ void getPrimaryOccurrences(u_char* text, u_int size, u_char* pattern,
                         id = atomicAdd(nOcc, 1);
                     }
                 }
-            }
+            }*/
             //occs[tid] = 0; 
         }
     }
