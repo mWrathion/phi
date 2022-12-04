@@ -62,6 +62,7 @@ d_data HybridSelfIndex::dataToGPU(uchar** patterns, uint m, uint nPatt){
 	d_data device_data = loadGPUStructures(fTxt, nFT, 
 										   patterns, m, nPatt, 
 										   bitVector, z, 
-										   SGCPFT, nSamP, PhraFT);
+										   SGCPFT, nSamP, PhraFT,
+										   SGCPT, lgPT, PhraT);
 	return device_data;
 }

@@ -20,14 +20,23 @@ struct d_data
     bool *bitVector;
     ulong *SGCPFT;
     ulong *PhraFT;
+    ulong *SGCPT;
+    ulong *PhraT;
+    u_long *occs;
 };
 
 d_data loadGPUStructures(u_char *text, u_int size, 
                          u_char** patterns, u_int m, u_int nPatt, 
                          bool* bitVector, u_int z,
-                         u_long* SGCPFT, u_int nSamP, u_long* PhraFT);
+                         u_long* SGCPFT, u_int nSamP, u_long* PhraFT,
+                         u_long* SGCPT, u_int lgPT, u_long* PhraT);
 
 void locatePrimaryOccurrences(u_char* text, u_int size, u_char* pattern, u_int m, int &nOcc, 
                               bool* BL_il,
                               u_int nSamP, u_int lgN, u_int POT_GC, u_long* SGCPFT, 
-                              u_int lgPFT, u_long* PhraFT);
+                              u_int lgPFT, u_long* PhraFT,
+                              u_long* SGCPT, u_int lgPT, u_long* PhraT
+                              , u_long* occs, u_long* h_occs);
+
+
+void prepareOccs(u_long* d_occs, u_long* occs, u_int size);

@@ -100,6 +100,7 @@ class HybridSelfIndex
         void auxiliarLocateUptoM(uchar *pat, uint m, ulong *nOcc, ulong **occ, int_vector<64> &list, size_t nLoc);
         void parallelLocateUptoM(uchar *pat, uint m, ulong *nOcc, ulong **occ, double &tloc, double &tfs);
         void newLocateSecOccAuxiliar(ulong l, ulong r, ulong posX, uint m, vector<vector<ulong>> &occ, ulong *cont);
+        void locateSecondaryOccurrences(ulong l, ulong r, ulong posX, uint m, vector<vector<ulong>> &occ_tid, ulong *cont);
         void newParallelLocateUptoM(uchar *pat, uint m, ulong *nOcc, ulong **occ, double &tloc, double &tfs);
         void setTopMinQ(ulong *Q, ulong pos);
         bool isOccInArr(ulong u, ulong len, ulong *A);

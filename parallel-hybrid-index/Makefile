@@ -1,5 +1,5 @@
-SDSL_DIR=/home/wrathiontbp/Parallel-Locate/sdsl-lite
-RMQ_DIR=/home/wrathiontbp/Parallel-Locate/rmq
+SDSL_DIR=/home/wrathiontbp/magister
+RMQ_DIR=/home/wrathiontbp/magister/rmq
 
 CPP=g++
 CPPFLAGS=-std=c++11 -O3 -DNDEBUG -march=native -fopenmp

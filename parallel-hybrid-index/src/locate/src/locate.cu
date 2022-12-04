@@ -10,6 +10,20 @@ __device__ u_long getNum64(u_long* A, u_int ini, u_int len){
     return result;
 }
 
+__device__ u_long getPosPhraT(ulong phra, u_int lgN, u_int POT_GC, u_long* SGCPT, u_int lgPT, u_long* PhraT){
+	ulong ph = phra>>POT_GC;
+	ulong x = getNum64(SGCPT, ph*lgN, lgN);
+	if (phra%16 == 0)
+		return x;
+
+	// extract from the sampled phrase 'ph' to 'phra'...
+	ph=(ph<<POT_GC)+1;
+	for (ulong c = ph*lgPT; ph<=phra; ph++, c+=lgPT)
+		x += getNum64(PhraT, c, lgPT);
+
+	return x;
+}
+
 __device__ bool isPrimary(u_long x, u_int len, u_long *pIni, u_int *dIni, 
                           u_int nSamP, u_int lgN, u_int POT_GC, u_long* SGCPFT, 
                           u_int lgPFT, u_long* PhraFT){
@@ -71,56 +85,58 @@ __device__ bool isPrimary(u_long x, u_int len, u_long *pIni, u_int *dIni,
 __global__ void getPrimaryOccurrences(u_char* text, u_int size, u_char* pattern, u_int m, int *nOcc, 
                                       bool* BL_il,
                                       u_int nSamP, u_int lgN, u_int POT_GC, u_long* SGCPFT, 
-                                      u_int lgPFT, u_long* PhraFT){
+                                      u_int lgPFT, u_long* PhraFT,
+									  u_long* SGCPT, u_int lgPT, u_long* PhraT, u_long* occs){
     u_int tid = blockIdx.x * blockDim.x + threadIdx.x;
+	if (tid >= size - m) return;
+	
 	bool flag = true;
 	u_int c = 0;
-	
-	if (tid < size - m){
-		for (int i = tid; i < tid+m; ++i){
-			if(text[i] != pattern[c]){	
-				flag = false;	
-			}
-			c++;
+
+	for (int i = tid; i < tid+m; ++i){
+		if(text[i] != pattern[c]){	
+			flag = false;	
 		}
-		if (flag == 1) {  
-			long id = atomicAdd(nOcc, 1);
- 
-           /* u_long pr;
-            u_int dx;
-            long id = -1;
-            if(isPrimary(tid, m, &pr, &dx,nSamP, lgN, POT_GC, SGCPFT, lgPFT, PhraFT)){
-                
-                id = atomicAdd(nOcc, 1);
-            }
-            else{
-                if(dx){
-                    if(BL_il[pr-1]){
-                        id = atomicAdd(nOcc, 1);
-                    }
-                }
-                else{
-                    if(BL_il[pr]){
-                        id = atomicAdd(nOcc, 1);
-                    }
-                }
-            }*/
-            //occs[tid] = 0; 
-        }
-    }
+		c++;
+	}
+	if (!flag) return;
+	
+	u_long pr;
+	u_int dx;
+	long id;
+	if(isPrimary(tid, m, &pr, &dx,nSamP, lgN, POT_GC, SGCPFT, lgPFT, PhraFT)){
+		id = atomicAdd(nOcc, 1);
+		occs[id] = getPosPhraT(pr, lgN, POT_GC, SGCPT, lgPT, PhraT) - dx;
+	}
+	else{
+		if(dx){
+			if(BL_il[pr-1]){
+				id = atomicAdd(nOcc, 1);
+				occs[id] = getPosPhraT(pr, lgN, POT_GC, SGCPT, lgPT, PhraT) - dx;
+			}
+		}
+		else{
+			if(BL_il[pr]){
+				id = atomicAdd(nOcc, 1);
+				occs[id] = getPosPhraT(pr, lgN, POT_GC, SGCPT, lgPT, PhraT);
+			}
+		}
+	}
 }
 
 void locatePrimaryOccurrences(u_char* text, u_int size, u_char* pattern, u_int m, int &nOcc, 
                               bool* BL_il,
                               u_int nSamP, u_int lgN, u_int POT_GC, u_long* SGCPFT, 
-                              u_int lgPFT, u_long* PhraFT){
+                              u_int lgPFT, u_long* PhraFT,
+							  u_long* SGCPT, u_int lgPT, u_long* PhraT, u_long* occs, u_long *h_occs){
     int *d_cont;
     cudaMalloc((void **) &d_cont, sizeof(int));
     cudaMemcpy(d_cont, &nOcc, sizeof(int), cudaMemcpyHostToDevice);
 
 
     getPrimaryOccurrences<<<(size+1023)/1024, 1024>>>(text, size, pattern, m, d_cont, BL_il,
-    nSamP, lgN, POT_GC, SGCPFT, lgPFT, PhraFT);
+    							nSamP, lgN, POT_GC, SGCPFT, lgPFT, PhraFT, SGCPT, lgPT, PhraT, occs);
 
     cudaMemcpy(&nOcc, d_cont, sizeof(int), cudaMemcpyDeviceToHost);
+	cudaMemcpy(h_occs, occs, nOcc*sizeof(u_long), cudaMemcpyDeviceToHost);
 }
