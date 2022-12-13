@@ -28,7 +28,7 @@ struct d_data
 d_data loadGPUStructures(u_char *text, u_int size, 
                          u_char** patterns, u_int m, u_int nPatt, 
                          bool* bitVector, u_int z,
-                         u_long* SGCPFT, u_int nSamP, u_long* PhraFT,
+                         u_long* SGCPFT, u_int nSamP, u_long lgN, u_long lgPFT, u_long* PhraFT,
                          u_long* SGCPT, u_int lgPT, u_long* PhraT);
 
 void locatePrimaryOccurrences(u_char* text, u_int size, u_char* pattern, u_int m, int &nOcc, 

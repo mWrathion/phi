@@ -1,0 +1,1000 @@
+e(str
+n') -
+   = 
+buf_m
+0x83 
+rnel_
+onten
+frame
+		bre
+V_ERR
+t ctl
+num[0
+     
+OUNT_
+calls
+nt ta
+   pw
+_FULL
+ERWAV
+		: 4
+ass_d
+48,1,
+int e
+60,0x
+s = k
+base)
+ that
+rn 0;
+l_to_
+0,0x0
+->sta
+1000)
+comma
+ 1] =
+de <a
+t *it
+x01 }
+else 
+rrupt
+ist, 
+ be d
+k, -E
+t_err
+3, 0x
+e(&up
+ts_de
+e 1: 
+	/* R
+defau
+sion.
+Hardw
+		if 
+uest_
+				\
+	dlen
+RCE.c
+ & 0x
+Auror
+ gene
+1d1d1
+					
+ {16,
+along
+ type
+   Ca
+		if 
+>call
+ction
+= "ez
+d cap
+BF,0x
+duple
+, 0x0
+ ioad
+00, 0
+e(int
+set g
+AT0),
+ & 0x
+ll_re
+ops.h
+fine 
+	retu
+_DEBU
+ up?\
+"FDC 
+ size
+200e)
+6 *if
+_t xp
+start
+h Bro
+_to_b
+r Reg
+_ioct
+print
+irt(b
+BestF
+ad_mc
+		.ts
+r == 
+EADER
+emory
+ MIDI
+turn 
+inb(a
+llow 
+ Soft
+ fail
+gtabl
+llect
+if (s
+ux390
+  bPt
+ * te
+dev, 
+ectin
+ed fi
+this 
+& ASY
+et;  
+Other
+turn;
+fers 
+_data
+BUG_R
+d int
+ry = 
+l") =
+_Q   
+ usho
+0x003
+f _I2
+us_un
+reak;
+t32_t
+try f
+ne AI
+e(xid
+	emu8
+pcmci
+     
+ work
+lease
+retur
+ = 0;
+#else
+110 *
+<linu
+.02.2
+		ret
+X_SG)
+00,0x
+	prin
+	q2 *
+00000
+     
+oam <
+dev) 
+crq =
+HCI o
+struc
+oice-
+f (wa
+0, 0x
+PLANC
+BEGIN
+rn PC
+selec
+queue
+     
+4,0x7
+d int
+t = -
+atic 
+t_buf
+e (0)
+    r
+#endi
+ro if
+retur
+{16, 
+utb(g
+("Wir
+olati
+x00, 
+case 
+    r
+ "mem
+ait_d
+ rsdp
+_lock
+d lon
+HOUT 
+fine 
+.id	=
+ = 0;
+ac_ad
+at [%
+NLABE
+!gpe_
+actua
+    i
+onal)
+ bloc
+n, HZ
+(rt) 
+a_map
+try->
+type 
+KERN_
+     
+d: id
+cpi_e
+f (ca
+polic
+OUNDF
+S_A_T
+tr->i
+RMAT 
+APPED
+am_da
+io7 *
+ ATTR
+f (po
+_tcla
+  MID
+6 Pci
+ (!de
+E_IOC
+  con
+     
+k = d
+nd Bl
+ffer(
+int i
+FUN_D
+l = 0
+s to 
+f = s
+/*0b1
+break
+	 if 
+1) { 
+evt_p
+risc_
+ll be
+E, AB
+"Bus 
+ith a
+hfs_b
+delay
+&gd, 
+>inde
+ordin
+_addm
+ (cur
+     
+etdev
+, skb
+>irq,
+flags
+uf_li
+ned((
+unsig
+	.alg
+ = os
+1. Th
+0,0,0
+node-
+UCHAR
+,0x02
+f (ke
+ = h4
+int i
+ long
+x[6] 
+if (u
+		 */
+ic vo
+ow st
+l mod
+ooped
+   bR
+Mason
+u8  t
+(err)
+atic 
+loada
+truct
+sendc
+		do 
+B		0x
+. at 
+inode
+g_req
+writt
+t_gpi
+t, dr
+pe ==
+g("%s
+(scsi
+retur
+>vyre
+{0x50
+		32 
+ream 
+0,0xC
+ad_on
+page)
+ = de
+print
+ "bud
+p->tx
+atus_
+   *b
+hdsp_
+pter 
+param
+and c
+eturn
+tic i
+, 8);
+fille
+,175,
+s not
+t pci
+typed
+yOrde
+10488
+rq. *
+cific
+ atm_
+ 0x40
+, 0);
+ool, 
+ 0, {
+ort *
+nty o
+ -EIO
+id(cu
+ 0x02
+b_for
+#endi
+, res
+PROTE
+_line
+(conn
+tatic
+45,54
+urn t
+signe
+func_
+ devi
+S			0
+	brea
+if (f
+m/uac
+0, {0
+s2_sb
+->dev
+= 0,	
+nitda
+AP_IN
+->id)
+SMBus
+ Reg.
+sp->s
+#endi
+emove
+= DID
+	max;
+autom
+823, 
+h (re
+CONFI
+error
+     
+AMIGA
+chip 
+o pro
+0x31,
+se th
+CTP_C
+ruct 
+sa.bu
+int c
+	The 
+ECKSU
+zt_po
+I_OSA
+     
+     
+_csum
+void 
+ug);	
+_exte
+MBLY_
+ radi
+*8(%r
+ase S
+BOX w
+prese
+ 01: 
+0x40,
+& (it
+eal_s
+fine 
+0_rea
+SSGOO
+r *to
+L    
+r and
+r_dat
+ at a
+har *
+0], 8
+en re
+yte(c
+0x00,
+rtup(
+? " C
+rrupt
+vol_t
+= get
+rs 32
+.vend
+	adm1
+   /*
+dsp_s
+sm/ua
+	unsi
+ <lin
+eDOC(
+102BB
+tic v
+ev, q
+TTOM:
+/* 00
+_MODU
+NTICA
+t = (
+ Hook
+eturn
+ Vari
+ "%s:
+     
+d_emu
+		MFP
+ lock
+ '_')
+retur
+t(t, 
+t dri
+#else
+    v
+	/* F
+nctio
+fault
+mixer
+x00,0
+d_par
+pio.d
+ude <
+d lon
+zeof(
+int c
+inux/
+   //
+ct sk
+ BT83
+endif
+	brea
+EBUSY
+c = e
+u8 re
+     
+ (rea
+NDIRE
+	.tar
+		buf
+y_ldi
+F583E
+_term
+v->io
+  Thi
+f (!c
+f cha
+ ( ; 
+t_mod
+ opti
+_chec
+     
+nit r
+@nexu
+    i
+x8820
+RQ_HA
+				/
+ (ifn
+ev_pu
+skb->
+ng le
+targe
+st = 
+fer +
+truct
+ctrl-
+ct du
+tile 
+vp.hu
+uct s
+saved
+0,0x0
+ 59",
+i_rda
+d); d
+r->V2
+	    
+			sp
+(int 
+em; i
+(work
+nd th
+    {
+	r |=
+the i
+defin
+rd de
+oto i
+etrie
+	goto
+st dr
+ister
+	    
+fset*
+retur
+first
+reqs)
+->var
+CI_VE
+#endi
+msk2(
+t	beg
+ A PA
+l = s
+<chun
+     
+la MP
+e Cif
+				}
+>mode
+ring_
+eturn
+EINVA
+out2:
+n = 2
+0, si
+are c
+S_VL)
+e_que
+d_tes
+d_REG
+   &r
+		/* 
+ne EN
+handl
+_addr
+ck->s
+Linux
+   RE
+ne DR
+ainin
+(DLCR
+efine
+ stru
+hwif 
+s(), 
+-	han
+ULE_P
+= 0x3
+pDevi
+					
+ude <
+   re
+hc_so
+#incl
+s = g
+lder)
+catio
+_FB_A
+gth, 
+dev->
+ines 
+enden
+} els
+		bre
+543) 
+y_enu
+print
+FIX "
+			cF
+s *ge
+     
+ 0xf0
+, ent
+ == p
+1 << 
+d) es
+5, 0x
+,0x97
+ytes 
+	if (
+100 *
+0x000
+ags);
+defin
+11110
+adedF
+fined
+will 
+rn IR
+reque
+arent
+    i
+* 0  
+ (par
+		--c
+ make
+ed->s
+KERN_
+n < o
+if (r
+_llse
+sc_as
+		ret
+io.h>
+		 */
+     
+ (Mes
+16666
+(time
+erial
+00,0x
+32 fr
+= siz
+fb_va
+rnen;
+troy_
+sts(c
+st[1]
+= (DI
+0x146
+_ctrl
+0,0x2
+uct s
+))) >
+     
+o out
+inue;
+evice
+tosw)
+ine H
+->fx8
+		pri
+-----
+0000,
+int r
+the g
+- Hos
+00000
+ts[0]
+00)) 
+ chip
+map a
+	for 
+d at 
+s whe
+p->cm
+  ifr
+0x79,
+dl (i
+ (j =
+sizeo
+, str
+s: bu
+>host
+ffset
+"dire
+f = n
+r) ((
+(host
+else 
+ADDR)
+ed co
+(pk_t
+xp = 
+d.  I
+ & PS
+		  b
+e DoC
+np_ir
+/ 0x0
+vate_
+ 0x58
+break
+  Gen
+ (tex
+ else
+ic7xx
+		FLX
+void)
+ts(bp
+ repo
+_SYNC
+ore(&
+nt st
+.requ
+_devi
+* Tak
+     
+nd-1)
+iter)
+OPDW_
+lse {
+e (3)
+>tag_
+;		/*
+pg 13
+_adap
+throu
+num d
+puts 
+pidtm
+Q%d\n
+_stat
+tatus
+-----
+on(ch
+lts =
+inclu
+80,0x
+4,0xF
+1A */
+ 0) {
+scx.c
+ip->R
+\n");
+ & ~W
+ror++
+2,0x3
+-----
+d (&s
+ BE L
+_swab
+ EEPR
+b2001
+e FE_
+'^F' 
+ |= 1
+/* 00
+adapt
+ned i
+eturn
+login
+p mon
+ff,0x
+fies)
+fers;
+,0x3e
+THIS 
+ct re
+break
+*****
+portB
+3475F
+nt di
+(bl >
+ } },
+_tran
+		 */
+tl ta
+ nvol
+i_dev
+ine D
+mount
+DMX_F
+sr IN
+.  We
+ { /*
+ lp->
+nf_va
+RRUPT
+ng.h>
+box2-
+*skb,
+e <li
+val, 
+flags
+0,0x0
+cpu 0
+,  0x
+0000,
+ar_vb
+l_rou
+) ((a
+egmen
+&md->
+stroy
+002\0
+ MOBI
+ (lon
+ing d
+,0x00
+ansta
+NTROL
+sable
+u8 va
+x_tai
+k of 
+endif
+ rpc_
+ead(&
+faile
+ * @p
+, run
+RPOON
+ (ctx
+ident
+8) * 
+re_wr
+e the
+		= {
+pt(pr
+CONN_
+@(#)d
+{				
+ - c 
+ATA) 
+	int 
+S Aut
+ 1970
+ 40) 
+* las
+stati
+		str
+low_i
+retur
+oto e
+ __ex
+C L-8
+is fr
+	++*p
+#endi
+ar ir
+]) = 
+nt cr
+((a ^
+	else
+			re
+ase D
+etif_
+= -1;
+mp->M
+d_emu
+x0000
+ergyt
+t car
+ncy: 
+ (SCp
+ed us
+er Sc
+i_fra
+urce 
+more 
+lc_sa
+verit
+VAL )
+clien
+rx_st
+_law,
+onsta
+and a
+st re
+ DEBU
+statu
+ibute
++ 2))
+t voi
+     
+nfo		
+ue fr
+(ata6
+				 
+	0x3f
+    *
+char	
+	writ
+down 
+ // s
+ req-
+can_q
+cnt <
+n tru
+s me 
+PU_5K
+TER	 
+			/*
+endif
+K(ice
+e : 3
+rrupt
+_pa =
+n = &
+, 0xf
+y if 
+_port
+(stru
+FProf
+l[1].
+C Eth
+(subs
+ * th
+MAX_P
+V    
+NLY  
+ERRUP
+	else
+rity 
+=	THI
+s4_fi
+	erro
+n/xof
+#if 0
+ SNDC
+o out
+chips
+t_dev
+tartL
+>BD_E
+	*rgb
+	dput
+192,1
+for (
+size;
+	do {
+oad t
+ reso
+e_err
+D_ECC
+IF_MS
+olicy
+->den
+&wait
+ = &c
+otclo
+/Outp
+gine 
+ (cin
+(bloc
+ *fsm
+eturn
+     
+DIN_P
+     
+D bit
+	if (
+er to
+ 0111
+_bh(&
+ DSO_
+lay(1
+retur
+    }
+B(sd,
+= *n;
+			 *
+addre
+RECT_
+("VID
+->rel
+	retu
+BEGIN
+ 3) |
+,192,
+ne PI
+lse {
+an Co
+reak;
+fine 
+, 0x0
+->fta
+E_LIC
+->sta
+eturn
+h/x86
+0xFF,
+		bre
+000) 
+nstel

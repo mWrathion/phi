@@ -13,7 +13,7 @@ LIB=$(SDSL_DIR)/lib/libsdsl.a $(SDSL_DIR)/lib/libdivsufsort.a $(SDSL_DIR)/lib/li
 LOCATE_OBJECTS = bins/utils/*.o bins/load/*.o bins/locate/*.o
 BUILD_OBJECTS = bins/utils/*.o bins/build/*.o
 
-NVCC = nvcc -arch=sm_50
+NVCC = nvcc -arch=sm_75
 CUDA_LIB = -L/opt/cuda/lib64 -lcudart
 all:
 	$(CPP) $(CPPFLAGS) $(INCLUDES) $(UTILS) $(BUILD) -c main_build.cpp -o build $(LIB)

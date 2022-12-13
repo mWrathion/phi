@@ -1,0 +1,1000 @@
+PAGE_S
+: poin
+includ
+tlb(de
+T_HALT
+eturn 
+device
+t_erro
+sect =
+eturn;
+to out
+lzr_t 
+15 req
+00000 
+w rest
+unsign
+E1_int
+x22,0x
+interr
+					}
+		set_
+-1; i 
+	228,4
+int re
+esp->e
+->capa
+100_cl
+				ex
+>vd[0]
+_out_h
+restor
+ction:
+x17e4,
+040",	
+return
+ad *ln
+erialN
+proces
+DIO_DE
+truct 
+ SYSFL
+device
+_tx_sc
+VALID 
+>acces
+ Inval
+onl(vn
+alloc_
+nd zer
+igned 
+			 sp
+p - bu
+XCEPTI
+rintk(
+tic in
+if (po
+	/* LL
+#defin
+0x1000
+pcmcia
+nix_cr
+onfig[
+      
+rity e
+includ
+   bre
+djust 
+har *c
+6, 0x6
+d char
+MODEM_
+ has t
+				se
+valid 
+pletio
+      
+    /*
+ arg))
+ry->d_
+r, "us
+DATA_I
+		cam-
+NULL) 
+		case
+  cmd-
+.gazel
+nnect_
+#defin
+ode = 
+t_to_o
+	0x38,
+truct 
+re are
+ a fil
+int la
+tic DE
+the sc
+define
+	.vend
+e DACA
+MASK		
+kb((le
+ap == 
+if (!d
+      
+ -EINV
+ "r" (
+u32	fc
+LABEL 
+      
+covery
+dowing
+am_t *
+params
+_ptr);
+183,32
+cdt ba
+(emu, 
+nt cnt
+e are 
+0xc002
+BUG(1,
+ttusb-
+E_WRIT
+ PROC_
+(struc
+0000 *
+e "lin
+ata *t
+mclnt_
+      
+04/10/
+Z1230_
+efine 
+blic L
+ption 
+(link-
+ine FL
+	   S_
+ft_fdc
+0x0710
+(ahc->
+00, 0x
+count 
+   (st
+hed by
+e_len 
+<net/i
+42 */ 
+ (dev)
+>Strip
+x00,0x
+_t old
+return
+      
+_lock)
+stanti
+x00003
+== 0xf
+Copyri
+int i;
+curren
+		goto
+	card-
+V_CONF
+= (u32
+nidx) 
+		    
+******
+	{PARM
+ruct s
+truct 
+ot_att
+r_rest
+in the
+  leve
+e <lin
+(void 
+-= cha
+cleanu
+efine 
+9,0xFE
+      
+l_isa[
+ retur
+DAC960
+len +=
+ally n
+MIGA_O
+n the 
+ reg, 
+uct bp
+*__aio
+atile	
+				  
+produc
+M_CAN(
+->hw.f
+46xx_p
+kb, b 
+ammed:
+inb(p,
+		defa
+ed by 
+ = (xm
+*     
+		 * r
+cosa%d
+systab
+et(sel
+******
+pty */
+NDEBUG
+tk("dv
+    ri
+ mm_st
+ore = 
+ow Cou
+000011
+_pendi
+	phys 
+ SECON
+efine 
+&card-
+inux/m
+NABLE_
+  Kris
+gs + S
+		 *	N
+	DELAY
+blet f
+/  KEY
+ "Quot
+ha494X
+signed
+return
+	if (e
+				br
+hardwa
+ short
+>name,
+int re
+drm_do
+tf(pag
+/kerne
+ expr 
+INFO "
+hfcsx(
+FBF054
+probe 
+******
+D, 0x0
+s, hos
+		retu
+bottom
+_OFFSE
+xres_v
+      
+94_HDR
+,175,2
+ and z
+e   = 
+f,0x01
+M" con
+TL_DSP
+ode *i
+	     
+l(bcsp
+phdr, 
+     m
+(mtrr_
+urrent
+eturn;
+ = TO_
+i->off
+ll the
+he_cle
+tfs_at
+} else
+nsfer 
+a:    
+ devic
+ount++
+#endif
+I_MIXE
+AD (MA
+k(KERN
+// SPD
+ 0x8b,
+	if (!
+ relea
+dn't f
+er in 
+AND_WR
+!count
+rol_t 
+			(un
+  4,0x
+_multi
+= UPF_
+	retur
+Enable
+vice.h
+	bx	lr
+uct hl
+k_if_p
+define
+mask !
+s, SND
+PLODEY
+	conti
+eprom)
+6, /* 
+->nr_v
+C_ALPH
+if (rc
+ CONFI
+ending
+_next-
+* 0x1 
+fic_38
+me add
+nsight
+irst! 
+ IRQ31
+/inter
+ = "de
+0xc0,0
+OL(son
+  0   
+	print
+ < (*(
+se BON
+0xc6,0
+flags 
+ED AND
+bl_det
+DD_MAX
+d dqpt
+ueue_e
+ = ((r
+_CSR_O
+ress *
+r_ptr,
+#endif
+const 
+r *buf
+3CCFE5
+to out
+(reg, 
+nt fee
+	dev_p
+CE_INT
+     0
+	retur
+status
+e NET_
+nclude
+ LE_T1
+fReqJo
+ & 0x0
+, hash
+pires 
+ct bio
+ != 0;
+,0x00,
+xpkey[
+		    
+T832_L
+R647)|
+riv(de
+ne BT8
+ no_sc
+seq_id
+IC uch
+qng > 
+nit ee
+>flags
+rface 
+ OUT",
+u[k] =
+/* FAL
+.com")
+terOff
+ase_ou
+eturn 
+arams.
+5 if c
+CPI_LV
+cc->io
+blast_
+truct 
+ we've
+riods_
+ed cha
+  fram
+for op
+l & BR
+ a sho
+*) _ca
+32	IfI
+_SMC2]
+ture X
+omplet
+(conte
+ic voi
+nt = 2
+ portB
+ask->t
+_char	
+al Inp
+ handl
+=		(SN
+define
+to out
+3, 0x8
+switch
+ense v
+******
+PHW_BA
+b_deta
+	switc
+,2,0,9
+ ) tmp
+ase 16
+Moenke
+*   In
+clude 
+******
+	if(i)
+		kfre
+eturn 
+0xc); 
+instal
+T_IP_D
+V_RENA
+kfree(
+UESTED
+of thi
+atic i
+ 0644,
+i=0,j=
+ocol, 
+ase GR
+td->er
+	retur
+se(str
+ (link
+      
+phase1
+&statu
+hese e
+ev->di
+     }
+_Devic
+li_irc
+IN(val
+ DMA_S
+TABILI
+EXT2_I
+ int *
+table_
+nd		*/
+ll_ops
+ hardw
+tic vo
+ - 1),
+t_susp
+leave;
+y init
+alPara
+rl %p 
+et_dma
+     h
+ES1688
+-ENXIO
+olopts
+isclai
+tus = 
+* slot
+_t cm_
+L_INDE
+y PCI 
+linux/
+t_user
+(curre
+that w
+	     
+2];		/
+R)) !=
+_POSIT
+return
+dMailb
+      
+W		(63
+or_t s
+efine 
+ (idx 
+sp34xx
+rform 
+break;
+node x
+tk("\n
+,142,0
+_int[4
+_READ)
+ine SC
+			rxr
+,0x08,
+ctrl &
+ head 
+cket(f
+#endif
+64_t o
+contex
+ain, \
+if (lp
+(sizeo
+struct
+ts fil
+		} el
+,208,1
+define
+(gid);
+er(0, 
+ar ch;
+		if (
+ase + 
+feed_d
+: Xili
+.lead_
+error 
+allabl
+DESC_W
+   * <
+(void)
+01/01 
+ct ib_
+ode_lo
+ 0x18,
+urn 1;
+tch_hw
+olctrl
+use = 
+ch (cm
+lan->c
+t time
+eliabl
+FO "%s
+g for 
+da_fla
+fe,0x9
+lcil:	
+vate->
+ned lo
+h, ANC
+ of li
+x20,0x
+P_MODE
+e Rdt	
+stiona
+x_seq.
+P(a,b)
+sm/io.
+rmb();
+onf.pr
+k_ptr;
+    ou
+			dir
+VR_DTR
+kept f
+free(a
+t res,
+Dbl_is
+wffff_
+apped 
+      
+ebuffe
+, of (
+LCDRV_
+ hw_ad
+f (!pt
+nt_Rel
+method
+apter)
+* Hand
+				(l
+->iop_
+nt_nam
+p(dst,
+	intrf
+->tty;
+ister 
+	int i
+_unloc
+inux/s
+age ou
+CMP_ER
+put !=
+L_ECC_
+0x0000
+if (cu
+alidat
+000000
+	if(es
+) type
+8330 s
+0x7c, 
+x_freq
+ar *en
+	buf	 
+* choi
+return
+t acpi
+21285_
+accura
+8427->
+f (!sk
+ * Ini
+ the F
+case d
+ef low
+ad tim
+ host-
+	CONFI
+OUNCE	
+n ret;
+te I/O
+43,8,0
+UDIO_R
+case f
+we lef
+k(sk);
+3 Manu
+Note -
+essful
+= smp_
+sk = 0
+udelay
+	  .si
+gnal *
+/* ---
+te = D
+  = 0x
+ic117_
+lp->cl
+rintk(
+ = max
+|= B44
+	/* St
+en acc
+flags 
+t *buf
+NVREG_
+egiste
+1010LT
+OE_INT
+------
+epp = 
+34,162
+ SOFTW
+RAM_0K
+rrupt 
+faults
+c ctlr
+x, ap)
+BSIZ_4
+		    
+* 00AA
+*/, 0,
+, sdcm
+int re
+/crypt
+      
+ctrl |
+th wri
+rt->SR
+nc(str
+OLES		
+ct sem
+tus[24
+vm_sta
+ "i2c-
+mu->pc
+pci = 
+ or (a
+val[8]
+dr + I
+i++) {
+		retu
+	retur
+ues ar
+uest N
+_u32	d
+the cu
+te_ope
+in use
+includ
+M_Prin
+ CG6_D
+sizeof
+ 4A */
+et = 0
+_drive
+defaul
+scb->l
+i < MA
+y_loca
+0c0, 0
+_offse
+< shpn
+ 19 */
+ENOMEM
+e), &s
+ >>= 1
+      
+ef_att
+ne GT9
+che li
+		 /*S
+ry->d_
+ck_irq
+Start 
+fo			=
+tatus;
+x03,0x
+owever
+				 *
+0000 *
+_reset
+	ei_st
+ock(cu
+	retur
+ __dev
+>free)
+#endif
+oto un
+1/02/1
+|= 0x2
+inits 
+dapter
+ int _
+			   
+ypedef
+T, E33
+		} el
+i_cmd2
+p.sent
+__ilog
+= dev-
+ = scb
+BR_HAS
+/* SIO
+ * tes
+ART_HS
+its ur
+e "h/s
+ne SAR
+unsign
+      
+includ
+ard to
+k(KERN
+_ADDR 
+ht 199
+f we d
+, 0x7e
+000 / 
+ear_re
+} else
+ ahd_m
+		else
+nfig->
+make t
+river.
+    { 
+104000
+X_LANC
+sg->bu
+ware; 
+eturn 
+spinlo
+ gdth_
+ void 
+evice 
+ AC97_
+exist 
+	/* Wr
+NE  0x
+e_t, i
+b3000_
+entry 
+owleve
+ate_ti
+nge ma
+k, fla
+zeof *
+dule_e
+val du
+n->ncc
+our_ta
+esize)
+8 LCD 
+UPT   
+ci_add
+ved_da
+	int i
+ess *,
+ODULE_
+0x00 }
+ are u
+ptiona
+han->d
+ify cc
+ int i
+led = 
+trolle
+_DEL	0
+AM are
+includ
+ int i
+(code)
+nabled
+ data 
+6,0x0d
+			[0]
+_ring,
+      
+to out
+#endif
+000 */
+c(stat
+000000
+00100 
+shed b
+x8f820
+AL_PRE
+cbd_t;
+ NULL 
+DR(VR4
+_cache
+ty_wai
+OTO_FO
+ live 
+SHALL 
+0005, 
+L_DEVI
+E */{S
+f.forw
+>sin6_
+r opti
+_map);
+ &id2)
+, and 
+urn 0;
+8, 0xf
+_recor
+ns in 
+e(int 
+lip_co
+esets 
+GE_SIZ
+t_queu
+urn -E
+ REG_C
+#endif
+dress,
+	} els
+ it to
+	mb();
+gboole
+    PC
+, 0x00
+pi_buf
+ to wa
+0] = '
+ESELEC
+/* Thi
+ !chan
+Includ
+ ~(Med
+      
+tages 
+ICAST_
+			con
+OUT));
+******
+ND_DES
+and st
+r_stop
+ es968
+f (sta
+itions
+ val =
+urn -E
+dpriv-
+FLG_LO
+har(he
+int i;
+	break
+device
+eturn 
+tic u3
+,GT_ME
+ule_in
+turn -
+reqs_a
+x83,0x
+okies.
+__asm_
+UT(b, 
+oaddr 
+,0x00,
+blocks
+REQ_BU
+eof(lo
+must b
+<linux
+xxx_ho
+ruct p
+ BusLo
+e((pac
+onst i
+M_TOTA
+0110 *
+s, str
+	255,0
+AILED;
+	retur
+ 0, 0,
+      
+		    
+video 
+QMAGIC
+_rx(st
+	} els
+eturn 
+000000
+: "r" 
+op	r13
+#endif
+000000
+n -ENO
+_DENSE
+udes *
+ *data
+else {
+nt go;
+		retu
+ahc_li
+h(mode
+e		= "
+      
+_pid_h
+ timer
+se SRB
+		a->u
+y(tfm,
+	struc
+,0xa1,
+ * Ret
+	/* Se
+ux/com
+, &tq_
+MONY_B
+B_MSGO
+ << 8)
+ribute
+_or_ i
+	    )
+S_BRID
+1110 *
+dInPor
+ ETHER
+sing b
+hpt37X
+CSI"},
+tic st
+om the
+fo->__
+RESET 
+ versi
+v->tra
+rnel T
+me", A
+, {0x0
+sb\t$0
+eturn 
+efault
+1_NF",
+&& !r)
+le_exi
+d_linu
+ 11111
+ "PCI:
+		goto
+buf, i
+izatio
+cda = 
+L_UP_A

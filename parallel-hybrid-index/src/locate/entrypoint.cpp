@@ -1,6 +1,6 @@
 #include "../phi.hpp"
 
-void HybridSelfIndex::locate(uchar **patterns, uint m, uint nPatts, uint nThreads, d_data device){
+void HybridSelfIndex::locate(uchar **patterns, char inputText[100], uint m, uint nPatts, uint nThreads, d_data device){
     double tt = 0;
     ulong nOccs = 0;
     ulong* occs = (ulong*) malloc(nFT*sizeof(ulong));
@@ -8,12 +8,14 @@ void HybridSelfIndex::locate(uchar **patterns, uint m, uint nPatts, uint nThread
     ulong *fOcc;
     for(int i = 0; i < nPatts; ++i){
         prepareOccs(device.occs,occs, nFT);
-        double t;
-        t = omp_get_wtime();
+        double tp, ts;
         int nOcc = 0;
+        tp = omp_get_wtime();
         locatePrimaryOccurrences(device.text, nFT, device.patterns[i], m, nOcc, device.bitVector, 
                                 nSamP, lgN, POT_GC, device.SGCPFT,
                                 lgPFT, device.PhraFT, device.SGCPT, lgPT, device.PhraT,device.occs, occs);
+        tp = omp_get_wtime() - tp;
+        ts = omp_get_wtime();
         if(nOcc > 0){
             ulong* cont_tid = new ulong[nThreads];
             vector<ulong> ps_tid(nThreads+1, 0);
@@ -51,19 +53,27 @@ void HybridSelfIndex::locate(uchar **patterns, uint m, uint nPatts, uint nThread
                 #pragma omp barrier
             }
         }
-        t = omp_get_wtime() - t;
-        tt += t/(nPatts*1.0f);
+        ts = omp_get_wtime() - ts;
+        tt += (tp + ts);
         nOccs += nOcc;
-        cout << i <<" " <<nOcc << "  " << t << endl;
+        FILE *fp = fopen("results/res.csv", "a+");
+        fprintf(fp, "glocate_%d %s %d %d %lu %f %f %f\n", nThreads, inputText, m, i, nOcc, tp, ts, (float)sizeDS*8.0/(float)n);
+        fclose(fp);
+        //printf("glocate_%d %s %d %d %lu %f %f %f\n", nThreads, inputText, m, i, nOcc, tp, ts, (float)sizeDS*8.0/(float)n);
         if(nOcc){
             delete [] fOcc;
         }
     }
-    for(int i = 0; i <53; ++i){
-        cout << occs[i] << " ";
-    }
-    cout << "\navg_time = " << tt*1000000.0f << " microS" << endl;
-    cout << "tt = " << (tt*1000000.f)/(nOccs/nPatts*1.0f) << " microS" << endl; 
+    double avg_time = (tt)/(nPatts*1.0f);
+    double avg_nOccs = (nOccs/(nPatts*1.0f));
+    /*double avg_tp = (tp)/(nPatts*1.0f);
+    double avg_ts = (ts)/(nPatts*1.0f);*/
+    cout << "\ntotal_time = " << tt*1000000.0f << " microS" << endl;
+    cout << "avg_time per pattern = " << avg_time*1000000.0f << " microS" << endl;
+    cout << "avg time per occurrences =" << (avg_time/avg_nOccs)*1000000.0f << " microS" << endl; 
     cout << "nOccs = " << nOccs << endl;
+    cout << "avg nOccs = " << avg_nOccs << endl;
+    // cout << "avg_time_prim per occurrence = " << (avg_tp/avg_nOccs)*1000000.0f << " microS" << endl;
+    // cout << "avg_time_sec per occurrence = " << (avg_ts/avg_nOccs)*1000000.0f << " microS" << endl;
     cout << nFT << endl;
 }

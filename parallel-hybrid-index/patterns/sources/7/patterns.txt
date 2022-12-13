@@ -1,0 +1,1000 @@
+b8,0x10
+   Char
+0x00,0x
+(evoice
+tch (si
+	data_o
+     Ve
+le_fdc_
+pclock-
+ct e839
+       
+truct *
+(!x->en
+tisys_r
+ "r"(in
+	if (cn
+ntinue;
+ions(st
+ byteSe
+_algori
+tic voi
+_COMMAN
+room 2 
+dr, CP_
+card,te
+se an M
+0221_H_
+	proto	
+_config
+_EEPROM
+hannel 
+   (28)
+s & SRS
+ do nex
+ = "s3c
+nsigned
+(f1 != 
+ducts *
+	return
+32_t de
+< SECTO
+, %%g7\
+u = clo
+ *data,
+modific
+ta *hda
+   and 
+and tex
+chips[i
+      l
+nlen(va
+change 
+nt amou
+doubt f
+1,150,2
+ /*D0*/
+list */
+i_statu
+ back t
+     ca
+ic void
+th) ? a
+actuall
+   unsi
+witch (
+cnt = c
+0x0, 0x
+lignmen
+02,291}
+	break;
+ (TRUE)
+k > rec
+pCurrCa
+tarted;
+1f,  0x
+{16, 0x
+snr, PC
+nux/rtc
+} else 
+    bit
+f200, 0
+is the 
+ a few 
+ -EINVA
+c,0x60,
+c struc
+struct 
+)mii_re
+urn err
+   SPCS
+				(  
+err = -
+,fh,RES
+f 0,%0\
+  udela
+DUAL_SG
+dmxdev 
+ile uns
+uest_bu
+YNC_CLO
+t val =
+were re
+ow conf
+= 0444;
+SYNC_WO
+ce *dev
+		retur
+ driver
+} vid82
+ifocnt;
+_ps_all
+>d_cook
+	sp->SC
+ndif /*
+nux/pci
+urn mas
+trylo0(
+put(map
+ 40, 24
+820108,
+	break;
+fo = in
+	/* Out
+addr, v
+ GFP_KE
+0000000
+			prin
+, cmd, 
+ce *ati
+ebug (3
+de == A
+INIT_LI
+_MPP_CN
+a->ifa_
+(0x000A
+tk(KERN
+_destro
+this->X
+ == fsg
+t_featu
+0x89,0x
+_csr rs
+} pnpID
+r->sigl
+ister  
+ (!acpi
+bolted,
+rdsect_
+cquire 
+       
+ Curren
+ions in
+f (ack_
+D_PROFI
+ER_RTC;
+}, /* c
+... 0x4
+t *hdsp
+	break;
+SE_CMD_
+ic int 
+(TachFC
+t_htons
+uled to
+e <linu
+eturn e
+2001e, 
+23_clie
+efine A
+(p->pid
+rite re
+oc_requ
+T_QUALI
+	if (cu
+,1,0,65
+{0xcb39
+elay--)
+acklist
+arith_i
+ Pointe
+nt val;
+B - doc
+ STATE_
+4PORTKV
+ARSEOP_
+dev->me
+	if (re
+count--
+NULL) {
+roup * 
+mic_set
+us & 0x
+tion b\
+*ph_com
+_B) ? S
+with ms
+c, SCB_
+sion re
+ences a
+		if (c
+= AHC_D
+		retur
+_set_qu
+10110 *
+old/not
+MODE_RG
+an_init
+000400 
+tk(KERN
+ck, cha
+.intege
+	break;
+EXT(nhp
+b_par *
+00,0x00
+cbindex
+e any I
+ - buff
+troller
+ruct ah
+   BIT(
+->devic
+ Torval
+ta[1] &
+while (
+b0, 0x8
+ usbdev
+ (sdtr_
+SIZE_PI
+= acorn
+rp->mag
+ * a pr
+	sony_s
+8c,0xb2
+exit(vo
+ructure
+RACE2((
+{0x84,0
++ 1) = 
+E		"drm
+e DN_CD
+inode);
+   retu
+return 
+g flags
+ress */
+aMax = 
+hreaded
+HZ/2, 8
+uffer_b
+o("dibu
+_HW_SB,
+isable_
+ne FDFL
+e, int 
+HCISETS
+tic int
+efine C
+_type	=
+	acpi_u
+ist_ent
+, fillr
+ror!");
+ats.bro
+32	type
+fine EP
+	return
+unt == 
+K_MSK |
+[4];		/
+>agp->b
+				mem
+t setup
+	return
+tic int
+(u32 se
+		fe_cr
+ 0x08, 
+e(card)
+e      
+ h->max
+er_data
+	ifinde
+460800,
+MPREG_I
+tic voi
+EL(bcs-
+,0x22,0
+		} els
+ have r
+x00,0x0
+ss 0xc1
+000_GPI
+ 0x16, 
+ iorema
+_system
+int ret
+(!(chan
+return 
+    sta
+end_tar
+*******
+u_name;
+ 0xff) 
+* Draw 
+WEVER C
+0000000
+WORD	Co
+cl  = c
+twice a
+32(hal2
+0,175,0
+t=0;jst
+nd of t
+      /
+ude <as
+started
+_MODE_R
+o the p
+ (void 
+tic __i
+8, 0x11
+	struct
+ELDI|CL
+	return
+queue =
+nclude 
+Softwar
+st sens
+ine ISA
+static 
+ *	Auth
+_conn);
+90,0x3f
+[unit]=
+interru
+	in x25
+y, u32 
+cluster
+x/mount
+	= UPIO
+->datar
+ contro
+ - 'A',
+ner		= 
+_unlock
+(gpio_n
+m_minor
+ster_ne
+B : off
+y(ret))
+#define
+include
+.rbd = 
+ven tar
+ial: Au
+/* Make
+							
+sm/io.h
+eof(str
+me_lock
+uffer_r
+ueue, &
+  ldoor
+       
+ommand 
+>acb = 
+= 0x434
+ CIA_DE
+, res_i
+st_in_c
+PHW_NPR
+gned in
+     de
+SECINIT
+((ushor
+a_io_po
+iInterr
+ple_siz
+uld jus
+ data);
+	iwffff
+rts(dev
+AUTOPOL
+ to thi
+result 
+return(
+ else {
+ff & *r
+4,0x00 
+/* now 
+d __exi
+-> inve
+ exists
+return;
+PG_mapp
+se A_in
+, drq);
+tStatus
+  _IOR(
+ds = fo
+    ret
+mod255(
+kernel.
+ndev) {
+_PP_nAu
+v, int 
+ndex(re
+uffer d
+urn -EN
+x10, "X
+lude <l
+,0,0,0,
+ the ma
+				= b
+ forms,
+ace_pri
+pagenr+
+		dc ^=
+nfoleaf
+35,192,
+g.inver
+ 0x00, 
+v * dev
+EDIR,		
+anipula
+		len -
+  UserC
+P_CMD_N
+alloc*/
+f (size
+s the a
+->type;
+_NONE +
+#define
+ocket->
+__user 
+ndef BA
+       
+ppen on
+fpa11 =
+unter >
+be32 la
+_start(
+irent *
+he inte
+se /* T
+b_reser
+memory 
+or == 1
+e->f_mo
+out*=12
+parser"
+_FAULT	
+	unsign
+ var */
+lock->a
+oot + i
+00, 0x0
+d char)
+lk = wa
+ot_conn
+(struct
+, MA  0
+ATOR_SC
+r = HLe
+avein_b
+4 word 
+SCX(cs,
+i_prms.
+se WRIT
+e <linu
+-bit al
+est pos
+(unsign
+f[j] = 
+cumanas
+& SCSII
+c_netde
+FG_ADDR
+       
+ART_XY,
+os = 0;
+ccwdev.
+(evt.ev
+eturn 0
+ 1f60-1
+		retur
+ontrol)
+r versi
+the por
+f1 != (
+>file);
+rol_chi
+		break
+					/*
+#includ
+gister_
+_SRC_AD
+0x54,0x
+NG_SIZE
+ else {
+ARAMS(0
+00 * re
+    def
+ (C) 19
+dth,dib
+ revisi
+       
+ 000000
+>frame_
+rr = sn
+)) < 0)
+810, 0,
+int ret
+	break;
+e <linu
+block_r
+      }
+=======
+lock_ir
+mdio_de
+(max_pa
+change 
+ter->cu
+	int re
++ = PPP
+if (s->
+he card
+availab
+t_mutex
+Tcpu) -
+ when t
+crc32c_
+ac_fram
+Support
+ream(iw
+/* 0000
+cceeded
+/* ster
+octl *i
+ther ei
+IC time
+ copied
+ as inp
+  for (
+(MODE_R
+arget(c
+				 bu
+uct sk_
+rn -EFA
+TICE "a
+Volume"
+	/* Byt
+set_dev
+NX_RSP;
+itpos =
+R(err);
+rint_pr
+			brea
+er requ
+ hosts)
+srb_cou
+CHANTAB
+ublic L
+_DFB24_
+_log_in
+		cards
+ARNING,
+     */
+ /*C.A.
+x4000 a
+		outb(
+EFC9752
+A6,  0x
+eedo_pr
+UENCER,
+f, temp
+ mode: 
+,1008, 
+ed = 1;
+active_
+t begin
+l:1;	//
+e 0x08:
+atic vo
+ler    
+ADDR	en
+sume() 
+int dco
+mask[1]
+*******
+dby\n",
+ * 17	b
+xx_host
+       
+turn re
+DEX, (t
+_string
+t, writ
+.channe
+E				0x
+3a,0xc0
+vator16
+ (;;) {
+ave the
+ble_dev
+el*/0);
+_bytes 
+->block
+fine   
+/* Chan
+bh = 1;
+me_exte
+se_baud
+) & 0xf
+CK(h->c
+ptor of
+S; i++)
+x3e,0xc
+vc->vc_
+il_Ct ;
+desc) {
+define 
+ ReadPa
+ize_t r
+abase+0
+		/* Ca
+ int dn
+(size) 
+ERT_STR
+the ter
+ned int
+ in the
+ board.
+private
+						\
+m += ~v
+ FLOPPY
+config.
+ *  GEN
+edef st
+* Set f
+000000,
+ left i
+	return
+OC_REQB
+x/iopor
+kmalloc
+c = thi
+l = sel
+ and de
+_adapte
+eturn r
+=======
+L != n-
+single(
+	if (re
+nstance
+l_mtd )
+s->extr
+,0xCE,0
+CY_DEBU
+aic_opt
+	int i;
+ [31:28
+ice[dri
+ DBG(x,
+evice->
+peed ==
+isable 
+| DMA_I
+					br
+STEMH_7
+ecremen
+/* Meth
+fer_siz
+nto the
+       
+LE_AIPP
+0, /* 0
+cket si
+e bogus
+[i].id.
+y_to_us
+/* Tran
+				vir
+NG BUT 
+ ##args
+ip 0 C_
+et addr
+le_work
+ev_err 
+	break;
+       
+e		AM_M
+	wr_for
+ogic_Au
+e CSR_B
+define 
+	buf[3]
+rt) != 
+	int ns
+_overfl
+ jh2bh(
+ions.Tr
+n_lock_
+object_
+    if 
+an 10/1
+signed 
+rrent s
+OR A PA
+6_vv.h>
+ = cqr-
+AttrDef
+ine ETH
+			/* p
+ruct de
+st, lis
+;      
+try *pw
+S_IMAGE
+08/26 0
+* EVENT
+     if
+g | (ri
+ne OBOE
+items t
+R_WAIT_
+, 2, 2,
+SLOT_SP
+case CA
+enever 
+sk_prot
+d_port:
+stream)
+)", NUL
+xmode[2
+y guara
+dvc->in
+page_co
+bus_t *
+t is no
+est & m
+= "\t\t
+driver 
+ i = 0;
+= wait_
+ = 0; i
+vice(&r
+EG_I1] 
+hdu >= 
+lease_m
+_whami;
+ The ad
+uxclip3
+/64 <= 
+echr_ex
+te(srcp
+rn val;
+ine RES
+lock fo
+r, u16 
+ (!i) {
+with AC
+NCR53c7
+740193F
+hw.slot
+x%x fai
+u_to_je
+n_prior
+nt idat
+ode fro
+	  int 
+r, 0, 0
+	if (!(
+   a nu
+*******
+GS_AAL5
+       
+efine P
+_queue 
+ruct co
+8,224,2
+(DBG_0,
+ee_addr
+pcb->ex
+ruct co
+ FPU_RE
+	0x0004
+MBOL(hu
+ <asm/i
+ate,0x7
+fferent
+printk(
++ ali15
+mory, b
+ma->dma
+		if (M
+_UNKNOW
+SELECT 
+ine[0] 
+	return
+M_CRIME
+	} else
+BlkStat
+ = Cont
+ch that
+T_RESOU
+names[i
+pteron 
+fc,0x00
+e != TD
+IC_K_BU
+afs_vno
+	outw(0
+ain. */
+>stats.
+[0] = {
+0xac3c6
+fer == 
+V1_Stat
+9,40,0,
+->incom
+, ioadd
+tify_t 
+d mailb
+vent wh
+cator *
+	16,0,1
+edia = 
+e->link
+980, 50
+SENT | 
+2003,20
+OC_SIZE
+define 
+,0x08,0
+ port i
+lude <a
+_rmsBas
+REG *st
+	card_a
+ the co
+dev->cd
+,0xCF,0
+G_ROOT_
+rr_del(
+de "flo
+nnel = 
+_fdset 
+ {0x00,
+ected c
+* confi
+init di
+ut_unal
+			else
+DCTL_DS
+nt8_t c
+ev->nam
+ur opti
+ return
+1, "out
+p(shost
+ -EINVA
+device(
+im_iopo
+} spec;
+mpId = 
+sfer ta
+stdata;
+x_ring;
+DE		0x5
+tart	= 
+!(b->si
+: buffe
+	switch
+ket_buf
+xed bon
+UCHAR)(
+43 0x2b
+ CLOSE_
+ude <li
+FE27400
+ed(ax25
+mem_cle
+if ((st
+obe_irq
+_status
+	if ( v
+nefit t
+		i ++;
+			atom
+e DN_RU
+_PROF_E
+elay(5)
+ree(ai-
+fined(W
+R = add
+load_bi
+ev->pen
+dress s
+0000000
+a_lock(
+TRING_C
+      (
+egs are
+et;	/* 
+ad += u
+r, int 
+f MODUL
+OMAP16X
+				 __
+i+=4) {
+vent_so
+ = NULL
+1800000
+eeprom[
+buffer_
+   8 /*
+r_ptr);
+	memcpy
+	int r;
+depth =
+							
+	int rc
+ding to
+			} el
+up_fan_
+return(
+F_INET,
+E) ? sc
+   inw(
+ite to 
+eturn -
+_printf
+_rpccre
+ego_per
+ase, tr
+ve lock
+       
+oid __e
+_info_b
+ruct am
+_dma_lo
+	0x00, 
+on't ca
+CI_DMA_
+p(md, l
+(v != 0
+"ready"
+BUG_DEF
+is_mtd)
+_write;
+, MIPSI
+ID, PCI
+ >= ACP
+define 
+k(sk)->
+(void *
+sion 2.
+tty->wr
+       
+		~(SEN
+queuing
+x144000
+ at whi
+eouts[S
+return 
+page = 
+turn er
+luetoot
+sc *des
+ctl_arg
+s_to_ji
+/*					
+name or
+ated.it
+GNED_CO
+/* 0000
+*)&logi
+*******
+	return
+efine R
+  for (
+#ifdef 
+ancode,
+fig |= 
+nt len;
+struct 
+suspend
+			0x02
+if (ev)
+E * siz
+t_desc:
+ter Abo
+ 	0x103
+esses *
+IO-mapp

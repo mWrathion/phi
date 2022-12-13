@@ -1,7 +1,7 @@
 #include "src/phi.hpp"
 #include <iostream>
 
-bool TRACE = true;			// true: print all details for console
+bool TRACE = false;			// true: print all details for console
 bool TEST = 0;			// true: apply exhaustive test
 bool SHOW_SIZE = false;
 
@@ -26,10 +26,10 @@ typedef struct {
 int main(int argc, char *argv[]){
     ParProg *par = new ParProg();
 
-	if(argc != 6){
+	if(argc != 7){
 		cout << "ERROR with parameters!! " << endl;
-		cout << "build usage requires 5 parameters:" << endl;
-		cout << "<patterns file> <pattern length m> <pattern quantity> <load prefixStore> <# threads>" << endl;
+		cout << "build usage requires 6 parameters:" << endl;
+		cout << "<patterns file> <pattern length m> <pattern quantity> <load prefixStore> <# threads> <name of the text>" << endl;
 		exit(1);
 	}
 
@@ -42,6 +42,8 @@ int main(int argc, char *argv[]){
 	par -> nPatt = atoi(argv[3]);
 	strcpy(par -> prefixStore, argv[4]);
 	par -> nThreads = atoi(argv[5]);
+	char inputText[100];
+	strcpy(inputText, argv[6]);
 
 	par -> index = new HybridSelfIndex(par -> prefixStore);
 	par -> n = par -> index -> n;
@@ -50,7 +52,7 @@ int main(int argc, char *argv[]){
 	par -> patterns = loadPatterns(par->pattFile, par->m, par->nPatt);
 	par -> device_data = par -> index -> dataToGPU(par -> patterns, par -> m, par -> nPatt);
 
-	par -> index -> locate(par -> patterns, par -> m, par -> nPatt, par -> nThreads, par -> device_data);
+	par -> index -> locate(par -> patterns, inputText, par -> m, par -> nPatt, par -> nThreads, par -> device_data);
 
     return 0;
 }

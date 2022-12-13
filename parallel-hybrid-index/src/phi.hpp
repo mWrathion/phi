@@ -151,7 +151,7 @@ class HybridSelfIndex
 
 
         // writes in *nOcc the number of occurrences of the pattern *pat[0..m-1] allocating these in **occ.
-        void locate(uchar **patterns, uint m, uint nPatts, uint nThreads, d_data device);
+        void locate(uchar **patterns, char inputText[100], uint m, uint nPatts, uint nThreads, d_data device);
 
         // extracts the 'len' characters that represent the original segment T[sp.. sp+len-1] and allocates these into A[0...len-1]
         void extract(ulong sp, ulong len, uchar **A);
